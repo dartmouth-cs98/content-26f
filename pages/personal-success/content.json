@@ -49,6 +49,17 @@
       "children": []
     },
     {
+      "id": "1f41ddae-0d08-42a8-9d89-8558f75b04e6",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
       "id": "72aab640-9a0b-4ffc-b946-f7b1b4d032e2",
       "type": "heading",
       "props": {
@@ -99,6 +110,17 @@
           "styles": {}
         }
       ],
+      "children": []
+    },
+    {
+      "id": "dc0f20fb-88f8-43f3-a2f2-de8ff945f47e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
       "children": []
     },
     {
@@ -206,14 +228,61 @@
       "content": [
         {
           "type": "text",
-          "text": "# Name | Personal Goals\n*what does success for this class mean to you?*\n\n* ex: i learn redux and make some cool complex logic\n* ex: i am able to show my work off in my portfolio\n* ex: i get a citation in this class to show off to all my friends\n* ex: i get complex feature x working because i really care about it\n* ex: we ship the product and it changes the world\n\n## Challenges\n*what are some challenges you foresee?*\n\n* ex: my team is annoying and i hate everything\n* ex: i get stuck on something technical and don't know who to turn to\n* ex: i accidentally delete all my code and all our team repos using some dark magic i found on stackoverflow and i'm stuck at dartmouth forever\n\n",
+          "text": "# Name | Personal Goals\n*what does success for this class mean to you?*\n\n* ex: i learn redux and make some cool complex logic\n* ex: i am able to show my work off in my portfolio\n* ex: i get a citation in this class to show off to all my friends\n* ex: i get complex feature x working because i really care about it\n* ex: we ship the product and it changes the world\n\n## Challenges\n*what are some challenges you foresee?*\n\n* ex: my team is annoying and i hate everything\n* ex: i get stuck on something technical and don't know who to turn to\n* ex: i accidentally delete all my code and all our team repos using some dark magic i found on stackoverflow and i'm stuck at dartmouth forever",
           "styles": {}
         }
       ],
       "children": []
     },
     {
-      "id": "4b681364-7416-4a62-bc79-5ba586f5b89a",
+      "id": "d66bea01-a57f-4cd9-83b8-91fe7dad4fe4",
+      "type": "columnList",
+      "props": {},
+      "children": [
+        {
+          "id": "9803090a-2d62-40e5-87f8-a7e4c3250f87",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "a096e14d-2105-445e-8540-4e126bdd8865",
+              "type": "paragraph",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "2d5576cf-ccb3-4460-9180-a2525e9feb16",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "c274072b-bb1f-44fa-968a-07948f63cb31",
+              "type": "paragraph",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0320a85f-5f27-485b-a901-9f97937cd19f",
       "type": "heading",
       "props": {
         "backgroundColor": "red",
