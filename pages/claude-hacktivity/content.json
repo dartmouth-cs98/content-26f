@@ -112,7 +112,7 @@
       "content": [
         {
           "type": "text",
-          "text": "💻You're free to use a code editor like VS Code or Cursor, but for this activity try going ",
+          "text": "💻 You're free to use a code editor like VS Code or Cursor, but for this activity try going ",
           "styles": {}
         },
         {
@@ -235,7 +235,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Setup Claude Code",
+          "text": "Set Up Claude Code",
           "styles": {}
         }
       ],
@@ -439,7 +439,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Setup Chrome Integration",
+          "text": "Set Up Chrome Integration",
           "styles": {}
         }
       ],
@@ -1033,7 +1033,7 @@
       "content": [
         {
           "type": "text",
-          "text": "💬Try prompts like: \"Based on these user interviews, what problems could we solve?\" or \"Help me brainstorm solutions for [specific pain point]\"",
+          "text": "💬 Try prompts like: \"Based on these user interviews, what problems could we solve?\" or \"Help me brainstorm solutions for [specific pain point]\"",
           "styles": {}
         }
       ],
@@ -1104,7 +1104,7 @@
         },
         {
           "type": "text",
-          "text": " - just UI",
+          "text": " – just UI",
           "styles": {}
         }
       ],
@@ -1179,7 +1179,7 @@
       "content": [
         {
           "type": "text",
-          "text": "💡",
+          "text": "💡 ",
           "styles": {}
         },
         {
@@ -1220,7 +1220,7 @@
       "content": [
         {
           "type": "text",
-          "text": "🚀",
+          "text": "🚀 ",
           "styles": {}
         },
         {
@@ -1249,7 +1249,7 @@
       "content": [
         {
           "type": "text",
-          "text": "💡Claude can open your prototype in Chrome, click around, and help you iterate on the design in real-time.",
+          "text": "💡 Claude can open your prototype in Chrome, click around, and help you iterate on the design in real-time.",
           "styles": {}
         }
       ],
