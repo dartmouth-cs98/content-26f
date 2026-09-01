@@ -1,17 +1,6 @@
 {
   "blocks": [
     {
-      "id": "50d50e0a-6dc4-4dcf-a8be-2ab87f3abbb3",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [],
-      "children": []
-    },
-    {
       "id": "331017fa-2d30-4521-8883-20b084e1c59b",
       "type": "heading",
       "props": {
@@ -143,7 +132,7 @@
         },
         {
           "type": "text",
-          "text": "@timofei7",
+          "text": "@ksalesin",
           "styles": {
             "code": true
           }
@@ -187,7 +176,7 @@
       "children": []
     },
     {
-      "id": "e73c7f43-ae81-4995-8f11-e0cde5930595",
+      "id": "e441267e-0eed-43c7-a79b-b886c3fe9641",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
@@ -197,14 +186,14 @@
       "content": [
         {
           "type": "text",
-          "text": "Grading of collaborative team-based work will be done based on GitHub pull requests. Proper git flow will be introduced early on in the term. Using version control will become second nature to you. The final grade will be based on a combination of weekly performance, class demos throughout the term, preset milestones, and peer evaluation. Grading will take into account GitHub pull requests. Proper git flow will be introduced early on in the term and will be required for all groups. Since projects are a team effort, you will earn a group grade along with a modifier for individual performance. In extreme cases individuals may be dropped or raised several letter grades from the group. For instance, if you were the star performer on the team and committed the large majority of code but your teammates didn’t pull their weight so the project wasn’t quite up to standards: the team might receive a B- but you might get an A. Alternatively if you slacked and contributed only a few lines to some documentation to boost your git commit count, we will notice and you might get a D even if your teammates pulled off an impressive project without you and the team received an A- overall. We will read your code and we will have regular code reviews.",
+          "text": "Grading Scheme:",
           "styles": {}
         }
       ],
       "children": []
     },
     {
-      "id": "9b4695ee-578c-4e25-8c48-87cb2f6d26de",
+      "id": "e73c7f43-ae81-4995-8f11-e0cde5930595",
       "type": "bulletListItem",
       "props": {
         "backgroundColor": "default",
@@ -214,13 +203,20 @@
       "content": [
         {
           "type": "text",
-          "text": "Project Milestones — 30%",
+          "text": "Project Milestones",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " — 30%",
           "styles": {}
         }
       ],
       "children": [
         {
-          "id": "632188e2-f4b9-4b7a-909b-2bbea2cfb9c9",
+          "id": "4dc37955-a024-4c22-acc3-f583a3f15f44",
           "type": "bulletListItem",
           "props": {
             "backgroundColor": "default",
@@ -230,7 +226,7 @@
           "content": [
             {
               "type": "text",
-              "text": "late penalty: -emoji per day",
+              "text": "Late penalty: -emoji per day",
               "styles": {}
             }
           ],
@@ -239,7 +235,7 @@
       ]
     },
     {
-      "id": "d74ed22d-7bd7-453a-ab51-1dc25be219d7",
+      "id": "c93a7635-4641-4fe9-8298-046dff4f05ae",
       "type": "bulletListItem",
       "props": {
         "backgroundColor": "default",
@@ -249,14 +245,21 @@
       "content": [
         {
           "type": "text",
-          "text": "Weekly Progress: Instructor Checkins, Github, Participation/Attendance — 30%",
+          "text": "Weekly Progress",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Instructor Check-ins, Github, Participation/Attendance — 30%",
           "styles": {}
         }
       ],
       "children": []
     },
     {
-      "id": "d06da35f-c55c-4303-87b8-7afa6246c909",
+      "id": "49f40c36-51f8-4362-bda9-9cde996fe119",
       "type": "bulletListItem",
       "props": {
         "backgroundColor": "default",
@@ -266,7 +269,70 @@
       "content": [
         {
           "type": "text",
-          "text": "2 x Final Demos at Technigala and Final Product Submission — 40%",
+          "text": "2 x ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Final Demos",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " at Technigala and Final Product Submission — 40%",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "876e7df0-67df-43d5-9fc3-fe3f00dbef6b",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Grading of collaborative team-based work will be done based on GitHub pull requests. Proper git flow will be introduced early on in the term. Using version control will become second nature to you. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "16c62434-8ec0-46c6-bcfd-403b3a3e0be1",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "The final grade will be based on a combination of weekly performance, class demos throughout the term, preset milestones, and peer evaluation. We will read your code and we will have regular code reviews.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d2bbf6f5-4e61-4936-a5d9-a849424d3a1f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Since projects are a team effort, you will earn a group grade along with a modifier for individual performance. In extreme cases individuals may be dropped or raised several letter grades from the group. For instance, if you were the star performer on the team and committed the large majority of code but your teammates didn’t pull their weight so the project wasn’t quite up to standards: the team might receive a B– but you might get an A. Alternatively if you slacked and contributed only a few lines to some documentation to boost your git commit count, we will notice and you might get a D even if your teammates pulled off an impressive project without you and the team received an A– overall. ",
           "styles": {}
         }
       ],
