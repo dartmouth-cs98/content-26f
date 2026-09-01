@@ -1,0 +1,596 @@
+{
+  "blocks": [
+    {
+      "id": "7940cd33-1aaf-4e97-b71e-7c96459fa723",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/hack-a-thing-2/assets/hack-a-thing-1767624091759.gif",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 404
+      },
+      "children": []
+    },
+    {
+      "id": "b22b403b-371b-4a5b-a350-3a0d3aa90b21",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "2838519e-522b-43b6-b0cd-f520ef2c5952",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Overview",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2994710f-f5f5-4345-b47a-4acd75bbbd36",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Goal: Hack on something potentially related to your project",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "11372c9d-160b-48d8-a117-e14b15640242",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Similarly to Hack-a-thing-1 we’ll spend a week hacking on some technology. However, now you can try out something that is more relevant to a potential project.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2d6ccc8e-38db-45a5-8beb-1a3e5299768e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You should attempt to hack on something related to your project. Use this as an opportunity to brush up on needed skills, or to hack a small technology demo of some particular functionality. Don’t worry about merging it in later, these are standalone hacks, but they might help you figure out how to do it better once you are implementing it for real later.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e5c69636-a503-48a3-ab0f-8d2125f2af14",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "ae8428d9-3bd9-41ab-80fc-83e3da767c9a",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Time Commitment/Complexity",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "58bf4aab-caed-4e1d-94b2-f7c82ca4f07d",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You should plan to spend at least 10 hours on this.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d451f0a3-a53c-45f0-b619-54d45f802844",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "832f796e-5f0b-4a3a-8925-5b13c86eb793",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Build",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "736c89e7-c20c-4629-b911-07e5178679fb",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Choose some technology and build a thing. This can be as simple as finding a good tutorial and following it or get your hands dirty with a problem that is related to your project and try to see if you can get it working. For instance, you think you want to build a webapp where image uploading will be an integral part. For this you could get a standalone page up that has image uploading. Or if you think your product will be an iOS app but you’ve never coded one, for this you could follow an online tutorial to get a sample iOS app up and running.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5830bd1f-d7bf-4261-81ae-9115097ec8ac",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "f84dee2e-cf7e-454d-b1d9-97e013e58b41",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Tutorials",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5a974f3c-86e2-4265-821b-17fffd197720",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "If you follow a tutorial or two just remember to acknowledge this fact in your README file.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "0a3e5750-dc13-47fa-a518-39ae9fab2949",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "61b437bb-fc0a-44c0-9add-e81fab9258fa",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Start",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d0ef8b5b-42a0-4693-97a1-3c69267c67ca",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "\n",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "You may work with up to 1 other person on this - but you are welcome to also work individually.\n",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "🚀  You should work in your own personal github for this assignment.  Just go to github, create a repo, and if you are working with someone else add them. \n📩  To submit your assignment you'll just need to comment on the assignment issue, link your repo (make sure it is public), and then close the issue to mark it down.\n",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "64860fdc-63e0-4145-8a50-a88a39e6db68",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "2c00bedb-c7da-4037-b965-100ffc4829ff",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "README",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "3467712e-5f1f-4300-beeb-29d54c11994c",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "All your projects on github should include a README.md file. For this milestone all it needs is:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2e71cb4a-799d-44e2-98f4-53e711124535",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Short description of what you attempted to build",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a4615966-0d7d-4dfc-a76b-20ab824c4402",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Who did what (if you worked with someone else)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b39c26d6-519f-46bb-85a4-f6d66344ca13",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "What you learned",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a60389a2-9564-4653-a68a-98058321457c",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "How does this hack-a-thing inspire you or relate to your possible project ideas?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "eb154351-3012-4a9f-b93c-7284adfff987",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "What didn’t work",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7107ad24-46fc-42e4-8067-ba9b46f6808c",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "e4a56021-bed7-4e90-a2f1-fdd4b4ecdcce",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "GitHub",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7df34624-7861-43e0-8976-0a08cf9f654e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "\nThis is also a time to figure out how to use git flow - if you are working with someone else. On your final project you’ll be required to use git flow with feature branch style ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://yangsu.github.io/pull-request-tutorial/",
+          "content": [
+            {
+              "type": "text",
+              "text": "pull requests",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".\n🚀 You should make sure you have github set up with your ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://help.github.com/articles/setting-your-email-in-git/",
+          "content": [
+            {
+              "type": "text",
+              "text": "correct github email",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " so that your commits are recognized as belonging to you. Make sure you have at least 2 commits connected to your github email on this. Points taken off if this is not so.\n🛑 The above is critical. If you do not have your author email set correctly / not registered with github then your commit history becomes an untrackable mess and we will deduct points over and over until you fix it.\n",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "4f07fe62-d034-4dee-8fe1-74eb56dbb3f5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "8d339679-0ee2-478f-a2b7-463c8861b703",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f8d251e6-5646-4d97-b5b9-d3e4fd8d2f7f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "\n👉 The GitHub issue being closed will be considered your submission! ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "To officially turn it in, please comment on the issue and then close it.\n",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "🙏 In your comment please include:What you learnedWhat went well & what didn’t \n\nInclude hosted URLs or screenshots you want us to view. README.md file included in repo per aboveat least 2 commits per person with ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/#commits-are-not-linked-to-any-user",
+          "content": [
+            {
+              "type": "text",
+              "text": "author recognized by github",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". \n\nIMPORTANT! Please make sure GitHub recognizes your commit author email.\n",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "675b91ef-066c-4c5e-bb1a-c9603745f986",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
