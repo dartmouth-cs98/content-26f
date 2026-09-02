@@ -1,12 +1,21 @@
 {
-  "repositories": {},
+  "repositories": {
+    "hack-a-thing": {
+      "pages": [
+        "hack-a-thing-1"
+      ],
+      "slides": [
+        "welcome"
+      ],
+      "assignments": {}
+    }
+  },
   "general": {
     "pages": [
-      "logistics",
       "dartmouth-cs98",
+      "logistics",
       "need-finding-interviews",
       "share-a-paper",
-      "hack-a-thing-1",
       "close-out-sprints-for-term",
       "winterim-work",
       "user-research",
@@ -27,20 +36,19 @@
       "project-proposal",
       "sprint-1-planning-your-first-sprint",
       "pitch",
-      "hack-a-thing-2",
       "group-dynamics-worksheet",
       "prototyping",
       "first-team-meeting-worksheet",
       "feature-spec-and-roadmap",
-      "claude-hacktivity",
       "class-term-2-welcome",
-      "personal-success",
       "sprint-1-term-2-planning-and-start-t2",
       "project-self-reflection",
       "pivot-or-persevere",
       "smoke-test",
       "sprint-1-retrospective-start-sprint-2-t2",
       "sprint-2-retrospective-start-sprint-3-t2",
+      "claude-hacktivity",
+      "hack-a-thing-2",
       "figma-prototype-v2",
       "sprint-3-retrospective-start-sprint-4-t2",
       "class-user-testing-the-figma",
@@ -60,10 +68,10 @@
       "rough-security-review",
       "rough-ship-it",
       "rough-the-evidence-reckoning",
-      "rough-code-review-and-security-audit"
+      "rough-code-review-and-security-audit",
+      "personal-success"
     ],
     "slides": [
-      "welcome",
       "user-personas",
       "existential-duty",
       "interviews",
