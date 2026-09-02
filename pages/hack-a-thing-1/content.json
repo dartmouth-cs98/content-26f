@@ -168,7 +168,7 @@
       "content": [
         {
           "type": "text",
-          "text": "Time Commitment/complexity",
+          "text": "Time Commitment",
           "styles": {}
         }
       ],
@@ -197,7 +197,7 @@
         },
         {
           "type": "text",
-          "text": " on this. The workload of this course overall is at a minimum 15 hours a week — if you spend less your final product may suffer and you will make the world sad.",
+          "text": " on this. The workload of this course overall is at a minimum 15 hours a week – if you spend less your final product may suffer and you will make the world sad.",
           "styles": {}
         }
       ],
