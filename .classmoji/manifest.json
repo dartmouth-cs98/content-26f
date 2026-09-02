@@ -7,7 +7,16 @@
       "slides": [
         "welcome"
       ],
-      "assignments": {}
+      "assignments": {
+        "hack-a-thing-11": {
+          "pages": [
+            "hack-a-thing-1"
+          ],
+          "slides": [
+            "first-sprint"
+          ]
+        }
+      }
     }
   },
   "general": {
@@ -77,7 +86,6 @@
       "interviews",
       "welcome-back",
       "hack-a-thing-1",
-      "first-sprint",
       "design-plus",
       "code-review"
     ]
