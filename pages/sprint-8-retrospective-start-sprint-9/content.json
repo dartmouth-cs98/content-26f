@@ -4,7 +4,7 @@
       "id": "2e6846e1-ca52-40d8-be4b-8efeeb9fa372",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
