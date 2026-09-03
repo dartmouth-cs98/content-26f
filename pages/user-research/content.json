@@ -88,7 +88,7 @@
         "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 1,
+        "level": 2,
         "isToggleable": false
       },
       "content": [
@@ -330,14 +330,16 @@
         "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 1,
+        "level": 2,
         "isToggleable": false
       },
       "content": [
         {
           "type": "text",
           "text": "Part 1:  Define (as a team)",
-          "styles": {}
+          "styles": {
+            "bold": true
+          }
         }
       ],
       "children": []
@@ -623,7 +625,7 @@
         "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 1,
+        "level": 2,
         "isToggleable": false
       },
       "content": [
@@ -941,7 +943,7 @@
         "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 1,
+        "level": 2,
         "isToggleable": false
       },
       "content": [
