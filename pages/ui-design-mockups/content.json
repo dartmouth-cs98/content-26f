@@ -42,9 +42,7 @@
         {
           "type": "text",
           "text": "Step 1: Get User Feedback",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -355,9 +353,7 @@
         {
           "type": "text",
           "text": "Step 2: Define Your Visual Direction",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -652,9 +648,7 @@
         {
           "type": "text",
           "text": "Step 3: Refine Based on Feedback",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -809,9 +803,7 @@
         {
           "type": "text",
           "text": "Step 4: Apply Visual Polish",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -1146,9 +1138,7 @@
         {
           "type": "text",
           "text": "Step 5: Team Name & Logo",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
