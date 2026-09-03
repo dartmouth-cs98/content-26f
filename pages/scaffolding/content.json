@@ -1,0 +1,840 @@
+{
+  "blocks": [
+    {
+      "id": "602a656d-314c-4e04-a314-687ca899f84b",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/scaffolding/assets/gwbmbuysgsida-1767624051715.gif",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 475
+      },
+      "children": []
+    },
+    {
+      "id": "e75d69e9-12d5-4fd6-887e-e43063543906",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "60bc8462-10aa-434a-aa2b-4300e9aaa43f",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Overview",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d29e73dd-bda2-4a47-a859-76bfa19c2d42",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This milestone is all about setting up some initial code scaffolding.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "3298c2ad-1d5d-4b32-b586-6ee024de056e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "At this point, you should have the features all planned out through the user personas and feature roadmap. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "29b9abbc-7424-43f3-a0b3-5416b5239942",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Now… How do you want to build it?  Plan out what technology you think you want to use and let’s get some code scaffolding ready. The project does have some minimal technical complexity that must be satisfied, but you are free to choose whatever tech stacks you wish. ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Remember no BAAS or PAAS are allowed except for the case of specialized tasks such as computer vision or ML you can initially start with a platform such as Watson/Google Cloud Vision etc.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "338aa4cf-6969-4070-8aeb-b48b38d8cab8",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "For now, you should get some basics of your project up and running. If your project has a UI try to do a little layout so that you have a main component and a hello world for the frontend and a hello world from the backend. If you have an idea of any modules and libraries you plan to use, document them and/or get them installed in your repos.  At this point, you should have your project code started and ready to work on. The frameworks should be set up and running and a local development environment set up for everybody on the team. If you need multiple GitHub repositories - you all should have permissions to create new repositories and add your GitHub team. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9b06e632-9ce7-4653-b9a8-a1b532b82587",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Note: the preference is to have multiple repositories rather than monorepo directories in one repo (say client, server). We prefer this way to track of things in git as you may be versioning these separately, monorepos are just trickier to deploy so unless you are comfortable with a monorepo flow I would recommend against it.",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2c250868-9c16-48da-9ee3-deeca1596a61",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "The goal:  everybody has the basic code frameworks up and running in a dev environment on their own machines.",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " This includes: databases, servers, scripts, frontend, etc. Having a local dev environment is pretty critical for rapid development. If you need a quick code change to happen such as say a new field represented, you can just change it and test it without messing either with a shared server or waiting for someone else to make the change.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "233dc9f3-0c41-48e7-b05a-b7b2ca4502e1",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "ac1fb84d-ff05-434a-94c9-72cfb3172db3",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Micro-Services Architecture",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "0c982d7a-498b-49c1-bea2-14ffb5d92a5e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You may want to consider a ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://dzone.com/articles/microservice-architecture-learn-build-and-deploy-a",
+          "content": [
+            {
+              "type": "text",
+              "text": "micro-services architecture",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". The general idea here is that rather than having say, 1 big server that does everything, you instead split up functionalities. So you end up with say 1 api server that talks to the database, but you also have a smaller server that does some image processing, and another one that handles machine-learning. This allows you to work with different platforms more easily and specialize tasks. If a small python ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "http://flask.pocoo.org/",
+          "content": [
+            {
+              "type": "text",
+              "text": "Flask server",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " can wrap your main TensorFlow code to provide a classification service that might be easier (and much better) than incorporating it all in one giant server-side framework via shell scripts.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8b47fea9-7b7d-48ca-ad41-b6993a927e15",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/scaffolding/assets/microservices-1767624051715.png",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "160b262f-dbd0-4e8d-bede-871ad65a1aee",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "(example with api->microservices as push model)",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5fb108d1-c224-4ea6-976e-1acfcc7a20d3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is an extension of a client-server model, but where you can have servers be clients to your central datastore. Your API can either contact your micro-services as needed, or your micro-services can use your API as a queue system and pop items off the queue as they come in.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "df2946db-aeec-4a8e-85d0-8b9a980e4927",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This may not apply to your project, but if you want to discuss your architecture in more detail please talk to us.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8e3f19b4-e415-43f5-b236-c2d6570a0e9a",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "9808ef48-a662-4d5a-9b6e-85a8c968a9fd",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Readme",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f4a84aee-9775-42fd-8d9b-ba32eafdb47d",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "In your project’s main README.md file (you may have multiple repos, but for now just use the repo you’ll be using for whatever is ending up being the frontend) start to outline the tech stack you will using. As you work on the project, your README.md file will be a record of the tools you are using and how to get your dev environment running.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "23bfb31e-10f5-4628-a65e-5ee763d245fc",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Start this doc now:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "85c372d3-c35d-4160-970e-b7b027ef25d2",
+      "type": "codeBlock",
+      "props": {
+        "language": "javascript"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "\n# Project Name\n\nTODO: super short project description, some sample screenshots or mockups that you keep up-to-date.\n\n## Architecture\n\nTODO:  overall descriptions of code organization and tools and libraries used\n\n## Setup\n\nTODO: how to get the project dev environment up and running, npm install etc, all necessary commands needed, environment variables etc\n\n## Deployment\n\nTODO: how to deploy the project\n\n## Authors\n\nTODO: list of authors\n\n## Acknowledgments",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6b1d7c84-7f63-4408-b3e7-030a8e8beb02",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You don’t have to fill in the whole document for this milestone, but do start on it and fill in what you can. This README is for now the defacto “landing page” for your project. It should be kept up-to-date so that I / anybody can clone your repos and run your project dev environment. This needs to be updated — this is how I will know how to set up your project to test and how your teammates will know how to get it running as well.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dc827a55-0c1c-4174-b167-c8a3b95a8157",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "79782b7a-696c-42f6-8faa-51292498ed19",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Git Flow and author name/email",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7ff35a94-014b-4031-b270-e789757e4998",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Using git flow will be an essential part of the final project. We’d like you to use branches and pull requests as you work on the final project together. You don’t necessarily need to do in depth code reviews, but doing git flow with feature branches will help you organize your team and your code. Doing pull requests (PRs) is required, and you will be graded on your GitHub code contributions via commits/PRs/issues assigned+closed.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5f2987f5-6528-4a1f-8eb1-ee6713e38121",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Here is a good tutorial ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://yangsu.github.io/pull-request-tutorial/",
+          "content": [
+            {
+              "type": "text",
+              "text": "pull requests",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "869e000e-986b-414e-ba35-ed042db6eeb9",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Make sure that your GitHub username and email are set correctly so that we can track your contributions. Your email needs to be ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/#commits-are-not-linked-to-any-user",
+          "content": [
+            {
+              "type": "text",
+              "text": "recognized in your commits by GitHub",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b0052d87-87c8-4802-844b-cebe3cda4f65",
+      "type": "terminal",
+      "props": {
+        "code": "git log",
+        "title": "Terminal"
+      },
+      "children": []
+    },
+    {
+      "id": "399775ad-0e90-425a-b2ae-be378d82b6d7",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "will show you recent commits and you should check to make sure your email is one that works and is listed as one of your emails in your GitHub settings ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://help.github.com/articles/setting-your-email-in-git/",
+          "content": [
+            {
+              "type": "text",
+              "text": "https://help.github.com/articles/setting-your-email-in-git/",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "  so that your commits are recognized as belonging to you. Make sure you have at least 2 commits connected to your GitHub email on this.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6d9dd997-e464-4a2f-91df-d0fb3169de10",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Make sure each team member has made a GitHub pull request to contribute to this as we want to make sure that at this point everybody is comfortable running the starter code and contributing via git. Yes, this a team-graded assignment, and it is on you to keep each other accountable and submit pull requests.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9f10a7d9-5a1d-46fa-a6ff-ecf500a3bfee",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "fac4cc67-e09f-4419-9e63-34ad8b053e05",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "GitHub issues",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7362c350-62c8-4922-950f-c1c6608662ef",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Go ahead and create an Issue for each team member to do a pull request. Assign them. and remember to Link them! ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "396b59c5-e028-4814-a316-40bfe3bdb46d",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "Screenshot 2023-10-07 at 5.16.56 PM.png",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/scaffolding/assets/screenshot-2023-10-07-at-5-1767624051715.png",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "8d4bec55-046c-4e6b-ab78-71e5c762c729",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "49dff5fc-cc0e-43c8-9892-2e4a4aab1b5a",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7ab9ec63-77eb-42d2-a39b-2dd713548680",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 See Issue: ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Scaffolding",
+          "styles": {
+            "code": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ca201456-b280-4f59-ad12-8266ba81792a",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Make sure each team member has a task assigned and an associated Pull Request linked by the end of the sprint.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "563d4f50-d02f-410c-8edb-67f9cafa2fc9",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Code scaffolding should be:",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "a75679c0-14e0-4a77-857f-6efdd01971d6",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "some initial starter code",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "9ef5bff5-a718-48ac-9e2e-798c382978b9",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "working hello worlds for any server/frontend/etc platforms",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "2c2ac7e2-e38b-4a0e-893d-76d1d95b0d90",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "github repos set up with README.md files started",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "3e76110f-1d8a-4371-9fe1-6a9a831527b9",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "demonstrated use by every team member of git branches -> pull requests",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "54f30dbe-cd6d-460b-8529-3b1975c492e7",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "fd221170-c2c2-4bcd-9ab5-3d8bfa52a269",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "lsdjflksdjflksdjflkjsd",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cda6c35f-8280-4ba7-adb2-a3e6dbbdd8d3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
