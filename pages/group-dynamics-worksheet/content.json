@@ -1,0 +1,1110 @@
+{
+  "blocks": [
+    {
+      "id": "400a3020-0569-423d-9efd-28070a6556e6",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/group-dynamics-worksheet/assets/successville-1767624097780.gif",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 485
+      },
+      "children": []
+    },
+    {
+      "id": "60db35d5-ce7f-4987-bb47-b3591fb23945",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "b3f01f08-b8cd-4112-bc9e-edfd4d1dfaf8",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Part A",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ceca56b4-9449-4c35-a1d2-1bb5f2f67471",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Instructions:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d4ea2bf4-30ca-4f10-8cfe-675fa0cf2770",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Complete all of Part A by yourself (this should take ~10 minutes).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7b5a8f78-7e55-4a73-bb23-d8ada526f1c1",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Once everyone on your team is finished with Part A, go around and share your responses to the two Role questions.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "4fbf1553-e7fa-40c8-8f2e-ac3a9c3a235f",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You may use ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://hackmd.io/",
+          "content": [
+            {
+              "type": "text",
+              "text": "HackMD",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " to work with the templates below and then you’ll upload them to github wiki per the directions below. Simply copy/paste the markdown template into hackmd and you’ll see what it looks like.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "accda72b-ddf7-4bd8-82d2-b0b23121ab33",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "sd,jshdflkjsdflkjsdlfkjsdlkf",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ca482995-a0fc-4690-8cb7-b9640cf2e65d",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 3,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I. Why are you making me do this?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c6d2506b-a82f-4913-b28d-f0ca3d672cc8",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This is a loooong 🕐 project. Ideally, you will enjoy working on this project. While the content of the project will certainly factor into your enjoyment, team dynamics will play an equal part.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "80e15d0e-31c7-4ed1-a424-29fcf1c4f6a0",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "The purpose of this worksheet is to prime you to consider ways in which you can actively contribute to your team beyond just doing the tasks assigned to you. Beyond technical experience, you as a person, your life experiences, perspectives, and energy, will all contribute to your team.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "499f6a7e-088e-4a97-991f-80896fa777dd",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This worksheet also acts as a charter: a mutually-agreed-upon set of rules for team operation and “algorithms” for resolving team conflicts.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "004109c5-be0b-46f9-ad6e-96af1867fd29",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "As you work with your team going forward, I want you to be mindful of being ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "inclusive",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ". If you are friends with some of your teammates, be especially mindful of this, since friends tend to form subgroups. When you have an idea to share, try to address the entire group. When you need feedback, seek opinions from the entire group.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "173f9d4b-1986-4fb9-bf37-304daf0acda4",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "There will naturally be louder and quieter members of your group. If someone isn’t contributing their thoughts, they may feel like they can’t get a word in edgewise or no one cares what they think (even if it seems like they are just shy from your perspective). ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Ask them what they think!",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " If others interrupt, intervene and give the first person back “the talking stick,” so to speak. Think of it as ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "your",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " responsibility that everyone’s voice is heard.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "225c8dc8-9b7a-413f-a95c-ada8fb6d0cb8",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "f021bf04-ca42-43e5-9262-df6acafd3dc5",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 3,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "II. Roles",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dc29fba2-dc88-4cfe-9e2d-ad18db35ad1f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your team is like an ecosystem: every team member will find a niche, or an environment where they are most energized and productive.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8248be18-bc8c-4009-b5fd-e2e1b9c379a5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "First, I’d like you to think about your technical niche. These are areas where you think you can make substantial contributions to the product. Try to think broader than specific frameworks or languages (though you can use them to elaborate on a broader point): think about what types of problems you enjoy solving or what skills you want to get out of this class.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d52954ae-100c-48d6-a522-15c2c6e9953f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Remember there are many faces to developing a finished product: research, hardware, software, user interface design, user testing, marketing, etc.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "3eacb562-895a-4888-8446-795530761e5d",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Here are some examples:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e3ae5cb6-6469-4182-9626-b45436702098",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Since I like drawing and painting in my free time, I want to take responsibility for making sure our user interface is beautiful. I have skills in Adobe Photoshop and Illustrator, so I can also make any images or icons we need.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ed1d8029-7f92-496b-8272-9f4b0de2b39f",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I enjoy gathering tools for my toolbelt, so I want to be the first one to volunteer to learn new web frameworks and find their quirks.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d273c366-fd47-4fad-a0d9-b825ac8230eb",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I think the web is a hellscape, and I want to stay as far away from it as possible. I will volunteer for any offline tasks, like machine learning or computer graphics.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "86902621-79c8-4a2f-a325-209c62a89413",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I’m a neat freak, so I want to make sure our code is well-organized and that my team members use proper code etiquette. I can write up a “best practices” document for our team to abide by.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "81c6bbcd-393f-4db9-ad63-2d34ac625c15",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I’m a masochist, and I want to be the one who helps my teammate track down a really tough bug they’ve been stuck on for a week.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7f999467-480c-41cc-80b8-5dd4994729da",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Next, I’d like you to think about your personal niche. These are areas where you think you can make substantial contributions to your team.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2f4abe86-aef6-4371-8332-92efb4ce5662",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Here are some examples:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8d07ed29-b46e-4ffd-bf5c-dc3b683cc870",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I want to be a mediator in team disagreements or conflicts, making sure both sides are heard and a fair resolution is made.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ac52a731-b8f0-4444-a73a-d28c613c7d0a",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I want to be a source of inspiration, bringing big ideas to the table and forcing us to think outside our laptops once in a while.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c870b679-60c3-4b8b-b6dd-4d62723a028f",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I want to be the one who surprises my team by bringing pizza to our team meeting after a rough week.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "790455ff-1e8a-4587-9e5e-670dc186323a",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "I want to be a ghost, quiet for most of the day but reliably haunting the repo with my contributions.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9beedb99-109c-4ca2-b623-2ed60259008a",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Copy the form and fill it out for yourself! We’ll add these to the ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://cs98.me/projects/milestones/group-dynamics-worksheet#part-b",
+          "content": [
+            {
+              "type": "text",
+              "text": "Part B",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " after you are done.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "529e1344-e9a0-4345-ae9e-e1fd94c8beb3",
+      "type": "codeBlock",
+      "props": {
+        "language": "javascript"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "**Team Member Name**\nMy leadership style (**bold** one):\nAnalyst & Architect  /  Driver  /  Spontaneous Motivator  /  Relationship Master\n\nWhat technical niche would you like to fill?\n(2-5 bullets)\n* TODO: Write here...\n\nWhat personal niche would you like to fill?\n(1-3 bullets)\n* TODO: Write here...",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f8da9936-fb2d-4f53-bd19-1f420b92e240",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "b5895c3b-2c07-49c1-8ae4-881d7c6b1244",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Part B",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "4f6a5a02-0b90-4db2-a2fd-4a38ec602e9a",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Instructions: Complete all of Part B as a team.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e15cbb8d-1d67-4e13-95a0-6b18c8be4ecd",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Add this to the ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Group Dynamics Worksheet",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "  Issue in github (more directions below).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d27312e6-0d30-406c-8697-b34ff3605a4b",
+      "type": "codeBlock",
+      "props": {
+        "language": "javascript"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "# Group Dynamics Worksheet\n\n## Team Members:\n\n// TODO: paste in each individuals responses from Part A here\n\n## I. Communication\n*You are required to spend at least 10 hours/week outside of class. Outline a general weekly meeting schedule with at least 1 time that everybody can make. That one meeting must include the entire team in the same room, in person. The rest of the 10 hours may be split into several sessions throughout the week. A nice tool for this is [when2meet](https://www.when2meet.com/).*\n\n### Schedule\n* ZOOM at 3:30 on Mondays\n* The green at 4:30 on Thursdays\n* Place at Time on Day\n* Place at Time on Day\n\n### Responsiveness\n*How often should team members be expected to check and respond on Slack?*\n\n## II. Decision Making\n\n### Group\n*What types of decisions need to be discussed and approved by the entire group?*\n\n### Individual\n*What types of decisions can be made by a single person?*\n\n## III. Conflict Resolution\nThere are three main types of conflict that tend to occur in group projects:\n\n* **Creative differences**: disagreement on any decisions related to the product\n* **Personal differences**: friction between people due to manner or words said\n* **Ghosting**: consistent missed deadlines or lack of contribution\n\nYour group should decide on a plan of action to deal with each type of conflict. There can be multiple levels to each plan. Involving the instructors can be part of the plan.\n\nTry to be as specific as possible.\n* A bad plan for Ghosting: “Talk to the person.” (too vague)\n* A better plan for Ghosting: “Elect the team member who is closest with that person to check in with them one-on-one. Based on the conversation, reexamine the tasks currently on that person’s plate and revise if necessary. Affirm that they are coming to the next team meeting. At the next team meeting, every team member will make an effort to include the Ghoster in any team discussions.”\n\n### Course of Action\n*What will your group do in order to resolve each type of conflict? (include the levels of escalation)*\n\nThe End!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b58d3662-0f14-4ca3-9055-f7586e96655e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "d978af4f-b0a2-476f-9461-d093808b0c43",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Github Repo",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "606cce94-c638-492f-b8c8-6c632d5d7a60",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "We’ll use this opportunity to get your first project repo started (if you haven’t already)! We’ll be using Classmoji to autoprovision repositories and set up teams.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2fc9ac78-1957-48b1-810e-144b6a2c65c6",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "d5bde79b-56b3-4bcf-98da-93f15f02f7a0",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "GitHub Issues",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ce5d72cc-6074-4f18-b8e7-c0ec11b8b0c4",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "We’ll be using GitHub Issues to keep track of pretty much all project documentation and tasks. If you haven’t used GitHub issues before ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://github.com/features/issues",
+          "content": [
+            {
+              "type": "text",
+              "text": "here is what they",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " are and ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://docs.github.com/en/issues",
+          "content": [
+            {
+              "type": "text",
+              "text": "some docs",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". And some tips on using ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://guides.github.com/features/mastering-markdown/",
+          "content": [
+            {
+              "type": "text",
+              "text": "markdown",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "0ad7c814-432c-481c-961a-83025e3998d9",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Go ahead and find the assignment issue in your GitHub project repository and use the template above to get started on the content! ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b6ce213d-d51f-44da-8089-faf04fc89481",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Add a label ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "documentation",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " to the issue.  All issues that are related to assignments and documentation should have this label set otherwise we may not see them!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a526696c-f6cc-46c4-bf7f-55721a50905f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "480ddbea-4d5f-4184-ab9d-45b5f36bad54",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Realtime Collaboration?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "40bc463b-f13c-45dc-9cf1-8b21c24c6fad",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "If you want to collaborate together on markdown files in realtime — rather than having one person type everything in, here’s a cool free tool: ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://hackmd.io/",
+          "content": [
+            {
+              "type": "text",
+              "text": "HackMD",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Just copy/paste from here into github wiki when you are done.  ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "DO",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " make sure to double check your formatting with the ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Preview",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " feature.  Sometimes folks submit very malformed markdown somehow and it is hard to read. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "625c1fb1-baf2-46e4-98bc-28731f2ed99c",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "95fb8b55-a3ae-48b0-ad5e-d2d4d77d4a93",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "32e021c1-214f-4752-8688-31c232112e9a",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your GitHub issue (make sure it is correctly titled!) is your submission.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "038bf4df-d1ec-4ae9-a289-02887043fa9d",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Add a label ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "documentation",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " to the issue.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f9eebcac-cc99-4aed-83e2-993bb1a8fe42",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Make sure everyone on your team has clicked the github classroom link and is on the github team",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5f494114-08fc-4280-a8b7-f19ab7667c91",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
