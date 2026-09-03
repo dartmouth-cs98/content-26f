@@ -337,9 +337,7 @@
         {
           "type": "text",
           "text": "Part 1:  Define (as a team)",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -632,9 +630,7 @@
         {
           "type": "text",
           "text": "Part 2:",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         },
         {
           "type": "text",
