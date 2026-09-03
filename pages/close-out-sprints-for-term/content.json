@@ -1,0 +1,137 @@
+{
+  "blocks": [
+    {
+      "id": "b1097bda-19dd-4f7c-a84b-34f56dbeac6c",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/close-out-sprints-for-term/assets/cheetah-1767623952049.gif",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "23560496-2785-43f9-afcd-582d0ebbc0ab",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "319606e4-b7b7-42c1-8064-79c427f58687",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Planning / Cleanup / Rake Your Project Garden",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d2430f69-bba3-4d9c-bbe4-6b6aa6d5655e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Prep your project for next term",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "46bca026-8e79-4196-8c6d-22fb8698ebca",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "clean up board and make sure all issues have been reviewed and sorted. Don’t leave any stale tasks (completed but not marked as done, etc).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c8dc6cb2-2513-4c55-af56-244c81a9f2f2",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "add in feedback/bugs/new ideas to new, this time it is ok to leave a bunch of tasks in New/Unsorted to go through at the beginning of next term.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "deca9e8f-335d-471e-8202-b6f0264a4890",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "ed78c9b8-d44c-4847-84d1-a02d631ecb9a",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "test test test",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "724a4db8-392c-4f6a-b26f-bfc62f5a0a61",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
