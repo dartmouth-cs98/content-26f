@@ -1,0 +1,2256 @@
+{
+  "blocks": [
+    {
+      "id": "a1eaf407-d89e-404f-a364-7e1ea0399216",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/1769272428320-stare-africa-gif.webp",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 350
+      },
+      "children": []
+    },
+    {
+      "id": "eb487c9e-6c0f-48b7-b555-82c955118109",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "7ab71b2a-be9f-442e-b8f9-b35ca78c992f",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your First Official Sprint!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5294b192-2a2a-4837-905d-3ceaffe04638",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Starting this week and ongoing for the next 15 weeks or so, we will be doing weekly sprints! A sprint is a development iteration cycle in the agile project framework. We’ll be doing a somewhat simplified version of this in that we’ll combine a few different steps together.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5fc00161-62e9-4af7-ae16-d61dd3c9e981",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Here’s how it will work.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "aa3f4bbd-e2b5-4ba6-90d7-76e89304e76b",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Sprint Planning (start of week)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a7b4d5d0-96d6-4e7f-97e7-feac4a771a03",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Work on Sprint (during week)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "01794fae-b823-4f52-988d-04e857a8a068",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Sprint Review+Retrospective (end of week)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b0a91371-cebe-40e1-b95e-50e95b185308",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "GOTO 1.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e124c461-ca81-409c-a254-9c6120afd5a7",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "As a simplification, you can do  1+3 in one big team meeting, since you are really recapping the week and then planning the next.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c501eff5-ed53-462e-ab17-a54a0081c7d3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "b3c880e9-7bb3-4194-9177-2d35447256df",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Issues and Scope and Assignment Q/A",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6eb13b9a-c412-4fcc-9d9f-369af7fff894",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "❓ When should you use GitHub issues?\n",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ✅ ALWAYS! This is a big part of how we’ll be grading - and is a huge timesaver for your team in the long run.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a50bbdf2-396b-44f2-bd8c-004859c12320",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "❓ What is the right scope for an issue?\n",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ✅ Each issue should be scoped to be around 1 sitdown work session, just a couple hours. Break up large tasks into individual smaller ones, each one should be under a few hours of work. You can think of issues as individual tasks: “create login button”, “api endpoint for user profile”, etc. Issues can also be bugs that you find along the way. Convert large tasks into ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Epics",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ". The smaller the tasks the actually faster you will work (not just the appearance of speed). It is easier to take on a manageable scope issue and work through it than if the issue has multiple steps that quickly become overwhelming to think through.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c1327643-1e6d-42fd-922c-d51bc4dc7c84",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "❓ Should I assign my teammates to issues?\n",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ✅ Yes! You should assign people to each issue as you work on them so your team knows who is doing what. Feel free to assign each other tasks, a little aggressiveness is ok! Keep it to 1 teammate per issue.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "549eef40-f76d-4565-b962-a1072ab67b08",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "❓ Can I use comments on issues to coordinate with my team?\n",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ✅ Yes! You can interact via comments on the issues, on a good project the board will feel like a community, people upvoting and clapping for each other, discussing the issues, or how best to implement something. EC: mention ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "@timofei7",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "in an issue or a PR when you need help or feedback or want to say hi. We’re happy to help — and since this was a wall of text we’ll know that you happened to read it all.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ac121692-d340-484d-ae60-b2a2fb464bb6",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "❓ Can I just use groupme to tell people what to do?\n",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ⛔️ No! You can discuss things to do for sure, but you should always use zenhub to keep track of who is working on what. Also you should be using Slack not groupme, we’re all in this together.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2daec89e-0324-4ef0-8bbb-430c500efdba",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "❓ Can I just use todos posted in slack to tell people what to do?\n",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ⛔️ No! You can discuss things to do for sure, but you should always use zenhub to keep track of who is working on what.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "81ee7163-4d37-472d-af07-f42d0751f2e4",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "❓ I’ve used Jira/other brand before, why can’t we use that?\n",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " ⛔️ Sorry, but we’re going to stick to one task manager. For all practical purposes Jira/Asana/Trello/ZenHub all have many overlapping features - GitHub projects is conveniently right in GitHub, which means you can spend more of your time there, rather than switching between a lot of tools. The important part is the agile workflow of moving tickets between stages and they all do it the same way.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d78d2ae0-7f3f-4fd6-8779-3a73ddfc03b3",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/rocks-1767624068939.gif",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "816e247e-a87a-40c5-a526-2889500665be",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Remember a part of your grade is usage of issues - once your project gets rolling you should shoot aim for closing 4+ issues per week per person. This should give you a sense of the scope of an issue. If each issue is under 2 hrs then 5 issues is around 10 hours. This isn’t a hard and fast rule - but try to do this on average. You can also use the ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Estimate",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " to show how many hours you think a task could take. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6950bf88-783d-4aa8-80c8-da723ed4f04f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "3019528a-7650-46e6-ae5f-55f8d326d846",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Motivation",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a91f5518-e061-465a-9016-14952140304f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚂 Consistency in using a task manager style tool is hard. But here’s the motivation — this is a very common approach — and in our case we’ll also be using issue engagement and closure (together with PRs/commits) as grade metrics. But at least we won’t be doing ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://www.businessinsider.com/stack-ranking-employees-is-a-bad-idea-2013-11",
+          "content": [
+            {
+              "type": "text",
+              "text": "stack ranking",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "! 😑",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dc8da25c-73a5-4088-9acf-871e3eae33e3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "6c6a0c6b-2d6e-4928-a423-c17a63e8e399",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "GitHub Projects",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ec6efb17-d2ba-40bd-a40c-96a9a615abaf",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "64d6e590-7f56-419e-be69-6e3589dd8e95",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 3,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Features of a GitHub Project:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5a2a5549-0a7a-4ba5-a7a7-719a95cf5a7b",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "cohesive",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": all your issues from multiple repos can appear in 1 Project",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "502df4a2-60f8-4d00-a886-70c99d9a6952",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "pipeline",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": assignments are different from what is currently being worked on - move an issue to ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "In Progress",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " when you are working on it. Feel free to claim or assign others to issues. More on pipelines below.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "72d7c9c7-a994-4713-b501-031de73f2cec",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "due dates / milestones",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": to assign a date to a group of issues you can create a ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Milestone",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ". We will use Milestones to demarcate major goals: sets of tasks with a common subject.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2f244553-79c4-4d52-b8b1-3a89b8c9ea1c",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "sprints",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": We will set weekly sprints so you can track how your weeks are going and plan better.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2e9a7761-923f-465b-8f68-d98f130da94a",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "Untitled",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/untitled-1767624068939.png",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "ca946f17-b43b-4033-a610-496883ef4ad8",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "Untitled",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/untitled-1-1767624068939.png",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "9f695237-5b42-4200-9399-cac644db0869",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "reports",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": One you have milestones you can see an estimate of how quickly you’ll finish all your tasks.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e6972f1e-47ee-4bcb-9d30-b03e05f8fdd9",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "e66ba0e4-abef-4b99-8c94-35dcb361e100",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 3,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Default Pipeline Breakdown",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "99fe690f-9f8e-48ab-805b-1ecc2d5f3c39",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "New:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " New issues land here automatically. You should drag (triage) them out of here as soon as possible.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f4a47914-40d1-491d-9882-7f456aba04a5",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Later",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Later (often called ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Icebox",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ") represents items that are a low priority in the product backlog. Leaving Issues in the icebox over deleting them helps avoid a cycle of raising duplicate Issues. ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Later",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " Issues should not take up a team member’s time or mental bandwidth; putting ideas into the Later Pipeline gets them out of the way and helps teams focus on immediate priorities.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "277a49a7-ddc6-4f0c-959f-ef6a05996f94",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "Untitled",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/untitled-2-1767624068939.png",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "32a2e2c3-671c-4c55-a572-92bb1c0cd70e",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Next",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Next Issues are not a current focus, but you will act on them at some point. These are often called ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Backlog",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", but we’ll simplify and just call that whole stack Nexts. If an issue doesn’t have a Milestone/Sprint assigned, you can consider them part of your “product backlog”. Once you add a Milestone, they become part of your “sprint backlog” (that is, the tasks that you’ll complete in an upcoming sprint.) The process of keeping this pipeline organized is known as “backlog refinement”, we’ll do something a bit simpler and do all of this during a team retrospective meeting.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "05f4c81b-ab6d-4bcc-8d06-f8b1ae48f87c",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "In Progress",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Issues here should have a good amount of detail, like estimates and requirements, since they’re your team’s current focus. This is the answer to, “What are you doing now?” Ideally, each team member should be working on just one thing at a time. Tasks here should be ordered by priority with Assignees added.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dd9681dc-33ff-4d40-92ad-cc4daf3e525e",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Review/QA",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Use the Review/QA column for Issues that are open to the team for review and testing. Usually this means the code is ready to be deployed, or already is in a Staging environment.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a704932e-540d-41f5-8f71-c0847dfed8b2",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Done Issues",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": in this pipeline need no further work and are ready to be closed. Having a good ‘Definition of Done’ agreed upon before work starts on an Issue is very helpful here! If there were any objectives or key metrics associated with the Issue, they can be appended prior to closing.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cbfcb655-83de-4f2e-bc2a-62771758e0b3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "c5ee1f8b-4e73-49d1-a883-de78a1dd7984",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Huh?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "585938ed-f9ac-47a0-ab6d-c8342ceb19c3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "If none of the above made sense, don’t worry, it will once you start assigning each other tasks and coding together.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "75403d7b-da89-43cb-916e-3148f8ad4ad0",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "cc60df1b-6251-41a6-a862-21063d070427",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Sprint Setup",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "27563a6e-fe9f-4b05-9ae6-b364e6f9402d",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 First things first, we need to create a Sprint Field for our issues. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2829cf4a-6c29-41d2-892f-c825bbd90e5c",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Select the dropdown next to your project board → then Fields → new Field. Name the new field ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Sprint",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " and make it an iteration type that starts on this next Monday!  We’ll do Monday - Sunday sprints and make the Sprints 1 week long. ",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "a7b03d37-a2f1-40a2-b54a-47c7faf242de",
+          "type": "image",
+          "props": {
+            "textAlignment": "left",
+            "backgroundColor": "default",
+            "name": "",
+            "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/screenshot-2023-10-07-at-5-1767624068939.png",
+            "caption": "",
+            "showPreview": true,
+            "previewWidth": 512
+          },
+          "children": []
+        },
+        {
+          "id": "a7f0bbfd-a4bf-47e3-8b55-d896f12927ee",
+          "type": "image",
+          "props": {
+            "textAlignment": "left",
+            "backgroundColor": "default",
+            "name": "",
+            "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/screenshot-2023-10-07-at-5-1767624068939.png",
+            "caption": "",
+            "showPreview": true,
+            "previewWidth": 512
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "23c0f136-4d94-4e61-824e-25ad05720d34",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Now that you have sprints set up, you can put tasks in each weekly sprint as you plan them! ",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "d6359ba0-2c46-4cdc-9903-dba253bf881a",
+          "type": "image",
+          "props": {
+            "textAlignment": "left",
+            "backgroundColor": "default",
+            "name": "",
+            "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/screenshot-2023-10-07-at-6-1767624068939.png",
+            "caption": "",
+            "showPreview": true,
+            "previewWidth": 512
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "727df677-5268-4cb4-908b-42351f225f93",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "05713230-15b7-480c-a44f-34069f56fdb4",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Rake Your GitHub Garden",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5d3da6c7-62ee-4fae-9234-99db46defc8e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Every week we will go through your project and organize! This is a generalized process to follow every week. Please follow this CAREFULLY! You will be graded on your project board.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a4771259-6550-47c2-bb46-2b6cdf155c84",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/pufferfish-1767624068939.gif",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "1c691489-b125-47f3-afc6-23a8642f1a0a",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-1-planning-your-first-sprint/assets/puffer2-1767624068939.gif",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "2c0caf33-554b-49e5-aa15-4d082b6c2b89",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Enter any Feedback",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Enter in any ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "design",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " feedback you have in Figma that is actionable (link to comment):",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "e0780888-df4d-4181-8c67-9f4893eb7350",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "label them with a [🖋️ design] label",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "8a4a5466-bc43-4652-baa6-e25e339996f0",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "New Bugs/Features/Tasks",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Enter in any bugs that you currently have:",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "a292d32c-9f3a-4db1-8606-0eb6526298a2",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "create new issues!",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "b0b87cf9-4410-46d8-84b4-f13431738e4a",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Update Roadmap",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Prioritize your Features/Create new Features as necessary:",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "b6cf8c42-6919-48ab-a6c7-6c78f753e0af",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "See ",
+              "styles": {}
+            },
+            {
+              "type": "link",
+              "href": "https://www.notion.so/Feature-Spec-and-Roadmap-5c14df4044eb481593794fe413cc669f?pvs=21",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Feature Spec and Roadmap",
+                  "styles": {}
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " to review",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "de9d7e2b-5521-4977-8bfa-d38565b12f38",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Use features for any large task with subtasks that need to be broken out - each is a distinct feature of your product (not at the level of technical detail).",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "3cb79a5c-7e32-41f3-8f40-1ef385d51350",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "update dates on your features - ",
+              "styles": {}
+            },
+            {
+              "type": "text",
+              "text": "look at your roadmap and update there.",
+              "styles": {
+                "italic": true
+              }
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "15072234-8d7a-4490-9d26-8360ff4a78ed",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "New Subtasks",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Break down subtasks you want to deal with this week. They can associated with features or standalone - should go into ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "New",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " for now.",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "560dc610-df08-4ab3-b338-f296469ad940",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "create new issues",
+              "styles": {
+                "bold": true
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "b2d904e3-8d02-4d46-80fc-c78b376d1762",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "label them",
+              "styles": {
+                "bold": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " can be a helpful way to communicate about priority or types of tickets:",
+              "styles": {}
+            }
+          ],
+          "children": [
+            {
+              "id": "5792f17d-780a-4fe6-8728-9a68d753410c",
+              "type": "bulletListItem",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "[ 🌋 blocker]",
+                  "styles": {}
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "d3d91b57-5630-426b-8ede-6af780f7d2bd",
+              "type": "bulletListItem",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "[ ❗️important]",
+                  "styles": {}
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "8bc9d7d7-ab07-4de5-be7c-4f089887a131",
+              "type": "bulletListItem",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "[ 🍲 back burner]",
+                  "styles": {}
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "b979a84e-da0b-40de-9196-c0413b7dd9a2",
+              "type": "bulletListItem",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "[ 💎 enhancement ]",
+                  "styles": {}
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "1b1c37b2-b640-4faa-bf13-17015d6affb6",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "assign a time estimate",
+              "styles": {
+                "bold": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " - complexity generally related to how long you think it should it take in hours.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "4a3dd4dc-cd51-4a44-a780-d64b69c5bfd8",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Process All Issues",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ": Go through ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "ALL",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " your current ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Unsorted",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " as well as ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Later/Next/InProgress",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " and deal with them.",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "cf71f4ab-388f-47a4-9a44-222af425c3fa",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Later",
+              "styles": {
+                "bold": true,
+                "italic": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " (sometimes called Icebox) if you aren’t going to work on them soon.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "848b39f1-2422-4923-8a77-b4d66d065fa9",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Next",
+              "styles": {
+                "bold": true,
+                "italic": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " (sometimes called Backlog) if they are something to work on ",
+              "styles": {}
+            },
+            {
+              "type": "text",
+              "text": "this week",
+              "styles": {
+                "bold": true
+              }
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cc7f7e0e-df8e-4007-b55d-e380607b0d9d",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "In Progress",
+              "styles": {
+                "bold": true,
+                "italic": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " for the specific tasks you are currently working on - should be around 1 per person at any given time.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "39b604ff-7ae1-4b47-a986-9e00bd00a7a6",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "You should end with ",
+              "styles": {}
+            },
+            {
+              "type": "text",
+              "text": "no",
+              "styles": {
+                "bold": true
+              }
+            },
+            {
+              "type": "text",
+              "text": " unsorted new issues in ",
+              "styles": {}
+            },
+            {
+              "type": "text",
+              "text": "Unsorted",
+              "styles": {
+                "italic": true
+              }
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "58d2ee2e-6762-4d8f-b725-0379a85601af",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Close issues that are old or deprecated - it is helpful to update the estimate to an actual time taken when you close.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "21d9dfa1-05a3-4889-a117-e91f5b933dbe",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Assign Subtasks",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ":",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "2b15edf9-20ef-4769-a8a0-5f20dc4371ef",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "take at least 4 issues per person that fit with the goals of this week and assign them to this week's sprint - and assign each to a person on your team. Each subtask is ideally assigned to only 1 person - split them up further if multiple people are working on them.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "e8c42d18-55fa-4a06-b3ab-59570bbc0c50",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "now you’ll be able to track progress toward the sprint! and get graded on it! 🏄",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "03fe43e4-ddfb-48bb-a227-0c4c9af38445",
+      "type": "numberedListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 When you work on a task - move it to ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "In Progress",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " - this is critical so that your teammates know what is happening. DO NOT FORGET THIS PART! You should always work out Next and put into In Progress during the week!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dee274c7-3d1e-4bc7-984a-d7115f6091d7",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "More about good projects usage ",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "link",
+          "href": "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects",
+          "content": [
+            {
+              "type": "text",
+              "text": "here",
+              "styles": {
+                "bold": true
+              }
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b5a39c91-0251-4e6b-b5a7-79b8b9e3a255",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "but…",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d1fd5d2c-04d0-45d4-994c-41e57b0f5c34",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🤯 ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "4 issues each?!?!",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "403befbd-232e-4659-ab8d-12846eaf02d9",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Well yes, you gotta make progress right? Gotta make it to DEMOS! If every issue takes 2 hours (a nice casual sitdown work session), then there are you are at 8 hours. That leaves a few hours for things taking a bit longer to do / team meetings and discussions.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9b78c78b-22ba-464e-86e2-d088730a2a50",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "If you prefer you are more than welcome to use Estimates to track how much time you as a team estimate the tasks instead of the 4 issues method.  This allows you to be more flexible with # of issues, as long as the story points assigned to someone add up to around 8-10. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "fc32b1aa-05c5-494f-8d26-410d45328081",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "36ee6cda-ed7a-4823-8db7-26259e7f607f",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Design Feedback and Updates",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e7246295-6bf3-47e6-aad4-3041f5b6bcaa",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Whenever we do feedback on designs we’ll be leaving comments in Figma. You should enter in all the actionable design feedback items into your project board and add them to this sprint to resolve.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "299eff42-f1b1-45bc-aea5-8b7a1e5ed06d",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "✋ What do you mean “resolve”? Well, you should at least respond to each Figma comment with some words, but in most cases this means updating your designs to correspond with your current plans as well as any changes that came up in discussion, or in the grading feedback for mockups.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2935161f-8d56-4f7e-9e82-8e809b244b66",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "77051736-bbed-42fe-b473-0a80b308ec85",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "And a couple of small things",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cf2a0bfb-c8f3-441c-9136-a9bcc67e475d",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "f2ff6180-8ff7-483c-93b2-862ab030b0f6",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 3,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "README.md",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2d9ca167-8114-402d-a252-fa242eb624a8",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Make sure your README.md files are updated with the current installation and deployment instructions as well as any architecture changes. This will be a small part of every sprint, you should always keep it up to date as the README is where your graders start to get it running locally for testing.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e6153383-0940-4b22-a1f9-3aa76e0bdb82",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "4e510853-2da5-4e34-be91-c58f5ce9218c",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "0c1444df-068d-4874-9023-9b3e63e89ae6",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "do all the steps in the raking your project section, don’t forget to label as we’ll be checking for those.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8ba8481e-db07-4461-951f-83e0827f17f6",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "For this first week you can add in some tasks for the currently due assignments such as designs and scaffolding!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "1b188eac-d1f4-4549-8157-9fdc4aace0c2",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "eed1b1fd-1cba-4318-a6ed-14ee41bf8e00",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "sldjfslkdjflskdjflsk",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "64a8768e-b37d-4d2b-ba87-41e1345c57b7",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
