@@ -136,13 +136,7 @@
         "textColor": "default",
         "textAlignment": "left"
       },
-      "content": [
-        {
-          "type": "text",
-          "text": "sd,jshdflkjsdflkjsdlfkjsdlkf",
-          "styles": {}
-        }
-      ],
+      "content": [],
       "children": []
     },
     {
