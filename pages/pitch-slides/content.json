@@ -897,23 +897,6 @@
       ]
     },
     {
-      "id": "29d3b0dc-5ce1-43ac-8024-42ec5c3ce542",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "lskjdflsdjflskdjflksdjflksjdf",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "9a100780-2954-42c4-8d00-34ec76919a56",
       "type": "paragraph",
       "props": {
