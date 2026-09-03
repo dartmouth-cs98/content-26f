@@ -26,7 +26,7 @@
       "id": "abb549e3-310f-4a11-83aa-160745dd5708",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
