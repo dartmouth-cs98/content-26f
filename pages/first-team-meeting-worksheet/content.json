@@ -1,0 +1,557 @@
+{
+  "blocks": [
+    {
+      "id": "b28f8a5a-4cbf-4985-91d1-caa4a9e7ec95",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/first-team-meeting-worksheet/assets/yas-team-1767624109653.gif",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 459
+      },
+      "children": []
+    },
+    {
+      "id": "c0969eac-100d-49b7-8622-2c9f42c9f0bf",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "5670359a-6a7e-4e8b-82ae-e93cf15063c6",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Overview",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cd714062-6a63-46d2-b7e0-0630334c665f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To get your team going on an idea - let’s get started on finding some common passions. The goal is to have an honest and open discussion hearing from everyone about what excites or disappoints them about this direction. This is your chance to come together and refine your direction whether slight or a major pivot.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "acb97253-5d9b-4143-86fc-50a4bf010d08",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You’ll fill out the following worksheet together and add it to your GitHub project repo. Each question is a discussion starter, ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "do NOT do this in silence",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", you should talk through each before moving on - someone can take notes.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "88a3b8e8-5c6f-4a03-85cf-f39586bf5005",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Here is a markdown file template to get you started with instructions on how/where to upload it below.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c135440a-634d-46fa-b158-f54ce86aa4b3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Find the ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Issue",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " titled ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "First Team Meeting Worksheet",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " in your new GitHub project repository.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "1e599da3-08e8-4d7d-9a28-85a0c77acebe",
+      "type": "codeBlock",
+      "props": {
+        "language": "javascript"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "# First Team Meeting Worksheet\n\n![insert a team selfie here as proof of meeting](http://url/to/team/photo.jpg)\n\n## Team Members Present\n\n* name\n* name\n* name\n* name\n* name\n\n## I. Identify a Common Vision\n*You’ve all voted on a common idea and themes. Now is the time to work through your commonalities and find a unifying vision between all of you. Answer the following for each of you.  This is the time to speak your mind.  Be honest with each other.*\n\n### Commonalities\n*Who makes up your team?  What are some common things you are interested in? Tell each other about the things you put down on the survey and expand on some of your passions.*\n\n### Inspiration\n*What are some things each of you is inspired by?*\n\n### Problems of Interest\n*What problems are you looking to address? Why?*\n\n### Identify\n*Which of the above is most interesting to all of you?*\n\n## II. Narrow In\n*Now let's try narrowing in on a problem that interests all of you. Make sure to go around the table and listen to everybody on your team without interruption.*\n\n#### Coolness\n*What could be cool about this potential project?*\n\n#### Challenges\n*What could be challenging / unfun about this potential project?*\n\n#### Success\n*What does success look like for this project?*",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d5d7db9d-fff9-45be-b9f3-eb1a09e7dfd1",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "0c517b39-1542-4903-9074-3e69e03a5f51",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Github Repo",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d2189d58-d563-41d1-a7a3-cf0b1542f21a",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "We’ll use this opportunity to get your first project repo started (if you haven’t already)! We’ll be using Classmoji to autoprovision repositories and set up teams.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "62378edf-d590-4f29-aa52-ae083921eae6",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your teams area already set up in Classmoji and you have a project-teamname repository. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6fd75324-fe58-4ff6-8935-53346707e67f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "53ae21aa-69d0-4332-b9a6-8c2f510c7230",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "GitHub Issues",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2727df96-0c09-4c31-b209-ab9e53e5073b",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "We’ll be using GitHub Issues to keep track of pretty much all project documentation and tasks. If you haven’t used GitHub issues before ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://github.com/features/issues",
+          "content": [
+            {
+              "type": "text",
+              "text": "here is what they",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " are and ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://docs.github.com/en/issues",
+          "content": [
+            {
+              "type": "text",
+              "text": "some docs",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". And some tips on using ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://guides.github.com/features/mastering-markdown/",
+          "content": [
+            {
+              "type": "text",
+              "text": "markdown",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7155ed38-3d35-4ca1-b27f-f6b703056410",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Add a label ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "documentation",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " to the issue.  All issues that are related to assignments and documentation should have this label set otherwise we may not see them!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d440d1ad-0029-482a-8027-85fd6be6e880",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "b6de3a9d-d064-46fe-b44f-982db6a5c6ae",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Realtime Collaboration?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2a91a03e-f284-467f-a6e9-eba5c12e8b14",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "If you want to collaborate together on markdown files in realtime — rather than having one person type everything in, here’s a cool free tool: ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://hackmd.io/",
+          "content": [
+            {
+              "type": "text",
+              "text": "HackMD",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Just copy/paste from here into github wiki when you are done.  ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "DO",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " make sure to double check your formatting with the ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Preview",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " feature.  Sometimes folks submit very malformed markdown somehow and it is hard to read. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5bd5d7cd-ef62-496e-8f0a-d1d25c12753a",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "28da629d-19e2-4548-b79a-0e9b5f6ad8cf",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "124feaf3-7242-4421-8e78-ec39b3a05e5b",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your GitHub issue is your submission, comment on it and then close it to mark it submitted.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b902c43e-8b12-4665-a500-0faf573f99aa",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Add a label ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "documentation",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " to the issue.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f6bc1d08-9cf1-4fc8-9179-348e38f87458",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "d046e7a0-baa7-4ca6-a716-deae0b74e67e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "lskdjflskdjfs",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dfba3850-fcc9-463e-91d7-f176ee9c790e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
