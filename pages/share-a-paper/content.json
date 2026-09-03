@@ -31,7 +31,7 @@
         "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 1,
+        "level": 2,
         "isToggleable": false
       },
       "content": [
@@ -261,7 +261,7 @@
         "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 1,
+        "level": 2,
         "isToggleable": false
       },
       "content": [
@@ -331,7 +331,7 @@
         "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 1,
+        "level": 2,
         "isToggleable": false
       },
       "content": [
