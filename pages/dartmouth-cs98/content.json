@@ -442,7 +442,7 @@
         "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
