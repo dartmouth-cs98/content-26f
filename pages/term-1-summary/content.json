@@ -40,7 +40,7 @@
       "id": "2a822d49-b92b-4634-a31f-b71049878fcb",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -131,7 +131,7 @@
       "id": "26840a2f-7d4f-4eb1-993b-803046872873",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -219,7 +219,7 @@
       "id": "251a264e-1d08-44bf-a28a-016a24e0f654",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
