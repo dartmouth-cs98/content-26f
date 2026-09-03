@@ -1,0 +1,538 @@
+{
+  "blocks": [
+    {
+      "id": "ef888224-fe2c-4ec0-957d-1b205b4cee74",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-2-implementation-data-wiring/assets/3o6mbng1lpwif5stb6-1767623992995.gif",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 386
+      },
+      "children": []
+    },
+    {
+      "id": "05313344-e971-4be6-bebb-04487f4c12de",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "804f9b8e-def8-4965-9ac0-1ad558cfafe3",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Overview",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6e2a8de8-b293-44dc-9dfc-137e2505700c",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "For this sprint the main idea is to get a “deep” wiring of your project components. If you have a frontend and backend, make sure they can talk to each other. If you have computational elements and display elements, this is the time to move past mockup data and have the display use the computed data. You should have the full data path demonstrated and working.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9824926f-f71e-453b-816b-5d80383bbb7c",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "The idea is to have all rudimentary functionality in place. For instance if you were building a web or mobile app there should be frontend components hitting api endpoints that are pulling data from the database. You should have all the components/views planned out and started in code even if they are simple placeholders. You should be at the point where you have some of your presentational components (UI) laid out and have started on wiring things together with any data sources such as your api server (or computational/algorithmic logic depending on your project).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "272b2953-a74d-4687-b01c-91d1075c1290",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "If you have an ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "api/client setup",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", then client should be able to make requests to server",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7dbe7f65-7f2f-47e2-ab98-7a4d46644891",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "If there is a ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "database",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", then it is storing real data and your code uses results of queries",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8026f7ed-aa78-48ca-ad7c-080048d6cc32",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "If some ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "computational or sensor components",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " they should be wired in and have working input/output that you handle.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "24293a18-a04b-4135-bed4-5e2feb213427",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "0b999b6c-b9a2-46ec-b460-544c01627bca",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "And a couple of small things",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "75104a71-d19d-45df-a352-508a3e209541",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "0195ba10-fbb1-4e5d-a811-458f17e2a2fa",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 3,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "README.md",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5d57c656-4ddf-4ff2-9cbf-dcaa1de1e77f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Make sure your README.md files are updated with the current installation and deployment instructions as well as any architecture changes. This will be a small part of every sprint, you should always keep it up to date as the README is where your graders start to get it running locally for testing.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5f5e1e5a-ebaa-45bc-a6a2-961881b04a71",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "d883a652-f37c-4f53-831b-443221ff7f6d",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 3,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Continuous Integration / Testing Releases (optional)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "82f5269d-6bd9-4b09-9a73-5cfdf19a53b2",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You could set up ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://docs.github.com/en/actions/quickstart",
+          "content": [
+            {
+              "type": "text",
+              "text": "GitHub Actions",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " for your project with automatic linting / build checking. If you are writing for the web - set up your project with ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://eslint.org/",
+          "content": [
+            {
+              "type": "text",
+              "text": "eslint",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Whenever you push to github it will automatically run eslint. There are automatic build runners for most languages. This is optional but can be helpful - especially linting. You can have CI run other stuff/tests. It is easiest to set up for auto-deploying web projects - but can be helpful with other types of projects as well. Here’s ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://lab.github.com/githubtraining/github-actions:-continuous-integration",
+          "content": [
+            {
+              "type": "text",
+              "text": "a course from github",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " about actions.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f02b57a5-9159-4015-84f4-ab688ccdd4d2",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Overall though the point is that whenever you merge into your ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "main",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " branch your code is automatically tested and also deployed somewhere. For some projects this doesn’t apply, but for those where it is possible it will save a lot of time.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "84860a7d-7b7f-4a86-94d0-a346a8059e7b",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "The idea generally is that it is helpful to always have a recent-ish version that folks can test with.  With web this is easy. With mobile, if you use expo it is also fairly easy. With VR or desktop, the recommendation is that at least once a week you make a build that you upload to ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository",
+          "content": [
+            {
+              "type": "text",
+              "text": "github releases",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".  This would all us / the class / your teammates even test a recent version easily.  Hardware… have a demo device that you keep updated. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "354c9c8d-e419-4f39-ac85-018ac7c304de",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": " Ask us if you have questions about this.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e480c0b6-6712-4ab5-a383-b07b1de178b5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "ec3a5066-6b09-495c-9596-0e4ca50f0a3e",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8d813da4-06e1-494a-aeaa-99e34d34a2a2",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "In your sprint retrospective and the end of this sprint, just mention what you did in terms of making sure you have a deep connection test of your components, if api/client that they are making requests to each other, if database that it is storing something and your api uses it somehow, if some computational or sensor components make sure you are getting inputs.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "871bb749-3ecd-4bff-86b3-b21958e736e1",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "sldkjflskdjflksdjflksdjlfksdjlkdsjf",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b548dcfa-257f-4e02-8057-d29472c4b8a3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "144f0491-e93a-4908-9aad-827effb02217",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Keep up the good work, you’re all rockstars",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a838885e-0f91-49ea-a15d-9af5858ff2ca",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/sprint-2-implementation-data-wiring/assets/notarockstar-1767623992995.gif",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "299b464a-87f8-4e2a-88c1-ac79cd898c5c",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
