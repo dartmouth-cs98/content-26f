@@ -229,9 +229,7 @@
         {
           "type": "text",
           "text": "To Turn In:",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
