@@ -745,9 +745,7 @@
         {
           "type": "text",
           "text": "Default Pipeline Breakdown",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
