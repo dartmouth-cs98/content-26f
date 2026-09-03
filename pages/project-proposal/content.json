@@ -1,0 +1,274 @@
+{
+  "blocks": [
+    {
+      "id": "b33c2502-2dd1-47c5-a108-60cb38cfd347",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/project-proposal/assets/proposal-1767624059537.gif",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 404
+      },
+      "children": []
+    },
+    {
+      "id": "c9b5ed47-e332-48e1-bc67-420d8a3cf083",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This will be a short document outlining your plans for the project.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "fbb17011-38be-46dd-99a2-88dbc7ef7c58",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your project proposal describes the concept and core components of your project. This is not contractual, and we’ll remain agile as we work. However, it is helpful to get all your thoughts down and to choose a direction. Remember, testable MVP of your core features by the end of the term is our goal!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "56ff69fe-d98f-4ad2-a31c-b5de46028047",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You should craft this together as a team, preferably during an in-person meeting.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "85d9e053-c5fa-4e92-8def-b1c37286c712",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Find your Github Issue titled ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "Project Proposal",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " with the following template.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "049f0140-6790-4918-afce-28b784e9d6c4",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "We will dive deeper into figuring out specific features in Feature Spec but take a quick pass at the most critical feature or two. How is your solution solving your problem?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "99803d16-5f52-488b-a731-be87f8a7b474",
+      "type": "codeBlock",
+      "props": {
+        "language": "markdown"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "# ProjectName Proposal\n\n### Team Members | CS98 22F\n\n![insert a team photo here](http://url/to/team/photo.jpg)\n\n## How Might We Question / Problem Statement\n\n_What is the problem you are aiming to solve? This is not the solution, that goes later._\n\n## Stakeholders\n\n_Briefly summarize who are all the stakeholders? These could be users, partners, admins, founders, etc._\n\n## Proposed Solution\n\n_Briefly describe your proposed solution. How does it work and what does it do?_\n\n## Prior Work\n\n_Briefly recap any particularly relevant sources from your state of the art research._\n\n## Impact\n\n_Explain how a solution to this problem meets a real-world need. Describe the potential impact on the community, society, workers, and environment._\n\n## Success Metrics\n\n_What are your ultimate success metrics? This could be changing one person's life for the better, or getting 1k downloads, or some performance threshold._\n\n## Validation\n\n_Explain how you plan to test/validate your product. Propose a term 1 and a term 2 validation idea. This can be different things depending on your project: user testing, or usage analytics, or performance characteristics. It can be done via surveys or in product analytics, or other performance measurements._\n\n## Implementation Challenges\n\n_What development challenges have you thought about so far? Identify any risks and briefly discuss possible workarounds / alternatives._",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "70bc3e1c-db9d-4795-8eef-37ccae5084e2",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "4ab23ddf-224d-416c-b34e-75f400d21e0d",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "817b85c6-bd63-483d-acc3-dfce17963fc3",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your GitHub issue is your submission, comment and close it to submit it.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ba0c4bf0-d7de-44cc-b9dd-f4a4e818d372",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Add the label ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "documentation",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " to the issue.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a35e803b-fb41-4735-8e16-38585cdc851f",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "When you’re done, move it to ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "review",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " for the graders.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "fe9c8dbd-e8d9-44aa-9545-88339c37da95",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "64f27050-7183-4de4-9a28-5253db52daf5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "test test",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6aa70918-e195-479c-a7f9-804523201f2e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
