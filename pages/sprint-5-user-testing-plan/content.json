@@ -254,7 +254,7 @@
       "id": "e30e03a2-50b0-43bf-8360-92c512a0ab70",
       "type": "heading",
       "props": {
-        "backgroundColor": "red",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 3,
