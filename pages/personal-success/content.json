@@ -260,7 +260,7 @@
       "id": "0320a85f-5f27-485b-a901-9f97937cd19f",
       "type": "heading",
       "props": {
-        "backgroundColor": "red",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 1,
