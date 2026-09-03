@@ -2214,34 +2214,6 @@
       "children": []
     },
     {
-      "id": "1b188eac-d1f4-4549-8157-9fdc4aace0c2",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [],
-      "children": []
-    },
-    {
-      "id": "eed1b1fd-1cba-4318-a6ed-14ee41bf8e00",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "sldjfslkdjflskdjflsk",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "64a8768e-b37d-4d2b-ba87-41e1345c57b7",
       "type": "paragraph",
       "props": {
