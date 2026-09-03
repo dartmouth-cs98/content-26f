@@ -26,10 +26,10 @@
       "id": "7c1d45d9-0e0e-475e-90b5-c09f5771f548",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
