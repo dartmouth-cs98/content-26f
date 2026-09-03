@@ -4,10 +4,10 @@
       "id": "aac13ef1-d4f3-451f-8eef-2e26802753d8",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -69,7 +69,7 @@
       "id": "79928965-97da-4356-8ab3-31ea68e00e92",
       "type": "heading",
       "props": {
-        "backgroundColor": "pink",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 3,
@@ -157,7 +157,7 @@
       "id": "248269ce-1531-4729-9044-b550f981be9c",
       "type": "heading",
       "props": {
-        "backgroundColor": "yellow",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 3,
@@ -273,10 +273,10 @@
       "id": "69faa6bc-3cda-46ab-9027-73858bbea5c5",
       "type": "heading",
       "props": {
-        "backgroundColor": "green",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -382,10 +382,10 @@
       "id": "174560b8-a144-4b35-a888-26641a9fc888",
       "type": "heading",
       "props": {
-        "backgroundColor": "orange",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -643,10 +643,10 @@
       "id": "2ec0eb68-79ae-457d-bc79-d5c9d107d80c",
       "type": "heading",
       "props": {
-        "backgroundColor": "red",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
