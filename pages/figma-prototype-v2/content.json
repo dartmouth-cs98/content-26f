@@ -4,7 +4,7 @@
       "id": "5127129a-e4bb-4c65-8e18-244cd1a7239d",
       "type": "heading",
       "props": {
-        "backgroundColor": "yellow",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -14,9 +14,7 @@
         {
           "type": "text",
           "text": "Figma setup",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -130,7 +128,7 @@
       "id": "e7cb0263-7bed-4731-9e80-700a15b019a7",
       "type": "heading",
       "props": {
-        "backgroundColor": "yellow",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -140,9 +138,7 @@
         {
           "type": "text",
           "text": "Update the designs",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -345,7 +341,7 @@
       "id": "71659f70-855c-437b-b0f7-1df5c2f00525",
       "type": "heading",
       "props": {
-        "backgroundColor": "red",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
