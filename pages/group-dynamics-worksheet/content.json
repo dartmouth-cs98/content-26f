@@ -29,10 +29,10 @@
       "id": "b3f01f08-b8cd-4112-bc9e-edfd4d1dfaf8",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -645,10 +645,10 @@
       "id": "b5895c3b-2c07-49c1-8ae4-881d7c6b1244",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -736,10 +736,10 @@
       "id": "d978af4f-b0a2-476f-9461-d093808b0c43",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -783,10 +783,10 @@
       "id": "d5bde79b-56b3-4bcf-98da-93f15f02f7a0",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -924,10 +924,10 @@
       "id": "480ddbea-4d5f-4184-ab9d-45b5f36bad54",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -1011,10 +1011,10 @@
       "id": "95fb8b55-a3ae-48b0-ad5e-d2d4d77d4a93",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
