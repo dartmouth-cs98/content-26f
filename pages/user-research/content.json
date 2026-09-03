@@ -1057,34 +1057,6 @@
       "children": []
     },
     {
-      "id": "d09ad81c-64a7-404c-8a6c-96831a2e607d",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [],
-      "children": []
-    },
-    {
-      "id": "978f0ea7-3024-4de3-9a5c-bcffd55d0538",
-      "type": "paragraph",
-      "props": {
-        "backgroundColor": "default",
-        "textColor": "default",
-        "textAlignment": "left"
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "lskdjflksjdflksdjflksdjflsk",
-          "styles": {}
-        }
-      ],
-      "children": []
-    },
-    {
       "id": "638063a0-8836-4426-be4b-3394713555d1",
       "type": "paragraph",
       "props": {
