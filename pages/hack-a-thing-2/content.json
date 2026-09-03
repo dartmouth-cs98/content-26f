@@ -29,7 +29,7 @@
       "id": "2838519e-522b-43b6-b0cd-f520ef2c5952",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -110,7 +110,7 @@
       "id": "ae8428d9-3bd9-41ab-80fc-83e3da767c9a",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -157,7 +157,7 @@
       "id": "832f796e-5f0b-4a3a-8925-5b13c86eb793",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -204,7 +204,7 @@
       "id": "f84dee2e-cf7e-454d-b1d9-97e013e58b41",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -251,7 +251,7 @@
       "id": "61b437bb-fc0a-44c0-9add-e81fab9258fa",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -310,7 +310,7 @@
       "id": "2c00bedb-c7da-4037-b965-100ffc4829ff",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -442,7 +442,7 @@
       "id": "e4a56021-bed7-4e90-a2f1-fdd4b4ecdcce",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
@@ -521,7 +521,7 @@
       "id": "8d339679-0ee2-478f-a2b7-463c8861b703",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
