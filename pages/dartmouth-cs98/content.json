@@ -4,7 +4,7 @@
       "id": "002a8e6e-ee8e-4cea-b38b-6f0669afd419",
       "type": "navGrid",
       "props": {
-        "entries": "[{\"kind\":\"schedule\",\"label\":\"Schedule\"}]",
+        "entries": "[{\"kind\":\"schedule\",\"label\":\"Schedule\"},{\"kind\":\"page\",\"pageId\":\"c4e14ba0-13db-4339-9e9f-c7b412109500\",\"title\":\"Logistics\"}]",
         "columns": 2
       },
       "children": []
