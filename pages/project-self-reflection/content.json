@@ -219,7 +219,7 @@
       "id": "40e832ce-6d72-4187-9ba3-0accb52b9017",
       "type": "heading",
       "props": {
-        "backgroundColor": "rgb(251, 243, 219)",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 2,
