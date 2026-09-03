@@ -85,10 +85,10 @@
       "id": "e0231e0d-ead5-45a8-a685-940a1d498429",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -327,19 +327,17 @@
       "id": "ecb66b02-f44d-4430-94ca-a8cf18ff2f1c",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
         {
           "type": "text",
           "text": "Part 1:  Define (as a team)",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -622,19 +620,17 @@
       "id": "89c696ee-2dc2-4556-a570-97c514625e57",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
         {
           "type": "text",
           "text": "Part 2:",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         },
         {
           "type": "text",
@@ -942,10 +938,10 @@
       "id": "185cc611-d6ff-4a42-82d7-41a7ee2bc67c",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
