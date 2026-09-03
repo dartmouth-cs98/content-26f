@@ -15,10 +15,10 @@
       "id": "5de9fa36-5665-43f8-ad4d-44993e44caff",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -80,7 +80,7 @@
       "id": "21077332-03ef-472f-82f0-e33dd7206c2a",
       "type": "heading",
       "props": {
-        "backgroundColor": "pink",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 3,
@@ -168,7 +168,7 @@
       "id": "d4009cf3-2133-45f8-a487-eb894ab05464",
       "type": "heading",
       "props": {
-        "backgroundColor": "yellow",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
         "level": 3,
@@ -284,10 +284,10 @@
       "id": "7dc8a574-ad2d-41ce-8bd2-3dd75e81a940",
       "type": "heading",
       "props": {
-        "backgroundColor": "green",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -393,10 +393,10 @@
       "id": "2104df45-ae00-4228-9881-c5bd1cfb0fe8",
       "type": "heading",
       "props": {
-        "backgroundColor": "orange",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -654,10 +654,10 @@
       "id": "a2c9d2ab-726b-4248-86db-7dc87605aabd",
       "type": "heading",
       "props": {
-        "backgroundColor": "red",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -711,7 +711,7 @@
         "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
