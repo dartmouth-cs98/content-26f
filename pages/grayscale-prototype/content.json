@@ -39,9 +39,7 @@
         {
           "type": "text",
           "text": "Step 1: Paper Sketch",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -429,9 +427,7 @@
         {
           "type": "text",
           "text": "Step 2: Choose Your AI Prototyping Tool",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -695,9 +691,7 @@
         {
           "type": "text",
           "text": "Step 3: Generate Your Screens",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -816,9 +810,7 @@
         {
           "type": "text",
           "text": "Step 4: Iterate and Refine",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
@@ -961,9 +953,7 @@
         {
           "type": "text",
           "text": "Step 5: Make It Interactive",
-          "styles": {
-            "bold": true
-          }
+          "styles": {}
         }
       ],
       "children": []
