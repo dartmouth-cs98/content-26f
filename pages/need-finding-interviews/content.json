@@ -1,0 +1,638 @@
+{
+  "blocks": [
+    {
+      "id": "d1c614b6-86a9-438c-a56e-de47298a2e52",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/need-finding-interviews/assets/have-an-idea-1767622413230.gif",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 357
+      },
+      "children": []
+    },
+    {
+      "id": "d9a60a3b-8db7-434d-9a50-5ca9882e83b9",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "4d6af951-3f13-4394-ac6c-897f3e79405e",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Collect Some Ideas",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f45231e5-3720-4a3f-9df5-2d02cfa45847",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This milestone is to get our thoughts percolating about ideas that might be from outside our usual experience. To accomplish this we’ll first ask some people who are not students (we’ll get to Dartmouth students later). People often have random back-burner ideas or insights into problems — things that they wish had solutions, or ideas for solutions that they wish they knew how to build. Often people are willing to give these away for the price of a ☕️.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "4a0cccc6-645a-496e-bd13-d3361b66a7f0",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "971deae9-3c69-4a7f-aef5-1e2d941984de",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Find Someone",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "04597cbe-2bee-4ab5-affd-2e91a7bc0c49",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your mission is to find at least 2 people who are not students and invite them to a short chat. This could be a professor you find inspiring, a mentor, a parent, a co-worker from an internship, your favorite barista, or someone completely random in town.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "1dafb81a-a676-4fe7-981c-97daea8853c0",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "de692a49-8c96-461b-9d04-f8cc89164f3a",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Interview Them",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f0133bc6-02bd-4098-90d9-9ae428cb4e9f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Tell them you have an annoying prof that wants you to ask around for cool ideas/problems that people have. Ask them if they’ve ever wished some product existed, or if they have any “if I quite my job I’d want to invent X” kind of ideas. Often profs have lots of ideas about random things that if they had time/energy/CS skillz/money they might want to build. Ask them about what irritates them. Try for forge a connection with them around irritating and annoying things you hate. Hatred can lead to innovation.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "886ff9d8-d660-4454-9d20-ac274a55dac2",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Try to prompt them to ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "tell some stories about times they were pissed off",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", or times they noticed a clever solution to something, or about things in the world that they care deeply about. Emotions are good; note how they feel towards the problem, do their eyes light up in excitement or anger?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "1b118609-671d-4100-833c-20879e89ee3e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Pay attention to them while you converse. How are they acting? Are there any particularly strong emotions related to any of the topics? Try to step outside of yourself, ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "don’t worry about what you are going to say, stay focused on them",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "51c986d5-3668-41cd-b06f-f3511f9c93aa",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "6fd82f75-3d2a-4ed9-b844-fbb222d4cff1",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "What is Good Need Finding",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9938a370-1a44-4850-bea7-fcdc3b41441e",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "We won’t have time to dive deep into design thinking, but there are many techniques from design thinking and human-centered design that would be helpful to us as we expand our problem scope.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "19030905-7feb-41a9-aab8-cde4b0c7f8f4",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "As you interview, follow the process in the ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://cs98.me/projects/milestones/img/empathy.pdf",
+          "content": [
+            {
+              "type": "text",
+              "text": "d.school’s empathy field guide",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Before you can solve a problem, or even correctly identify it, you need to be able to empathize with the person you are interviewing or observing.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ad39698d-ed15-4fbf-97d7-9c07be5a57e5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "944460ac-d208-40de-a69e-9086a6f683f8",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Start",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ca9cdf44-c3e6-4e50-a222-255aa3a06eb5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 See this ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://docs.google.com/presentation/d/13FXvy1hlgrjDH1V_y1V6Jf4jkrgLc1WXAWCgxgoTP1g/edit?usp=sharing",
+          "content": [
+            {
+              "type": "text",
+              "text": "shared google slide deck",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Duplicate the template slides for yourself for each interview/need finding you have done.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "52360b33-9e16-4698-a0ef-1c217bfac3fb",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "960a90fc-9a14-4c5c-aa18-6b43dc263a0c",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Record",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e7c71c6c-490a-4ad5-9fb8-6108359b5d77",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Try to collect at least a couple stories/ideas/problems.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "71be71bd-3fae-4c14-8b88-33b8373d1b22",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Here is a markdown template that you could use for taking notes, but do what you want for notes, just do keep notes.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d43a0ae5-457a-4eb4-a6f2-687a5ff8cfbf",
+      "type": "codeBlock",
+      "props": {
+        "language": "javascript"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "# Need Finding Interviews\n\n## Interview 1:\n* name:\n* date:\n* occupation:\n* relationship to interviewers:\n* location:\n\n### Some potential questions to get you started\n\n* What does your day to day life look like?\n* What are the hardest parts of your day? In general/long term?\n* If you had a lot of skills and money, what would you make or do?\n* What is a time that you were pissed off at something?\n* What is a time you noticed a clever solution to something?\n* What are some things you like?\n* What do you dislike?\n* Products that you wished existed?\n* Could you tell me story about a time you ______?\n* What was your best/worst/craziest/most memorable experience with (area of focus)?\n* What would I find surprising about . . .?\n\n### Record Any Observations\n\n* What were they doing while you asked them stuff?\n* Any particular reactions / emotions during the interview or specific questions?\n\n### Reflect / Conclusions\n\n* Come up with a 1 or 2-sentence problem statement that summarizes what you heard.  Not a proposed solution, but the problem.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d1774916-705d-4941-8cad-96b16b4212e5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "d4aaa7c2-22db-4d99-bbbd-0a98a12c0a96",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Empathize and Summarize",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c2bd2870-a962-4996-9be5-ff09724958fe",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Try to draw some conclusions at the end, in particular identify the problem statement. This is not your proposed solution to the problem, just a summary of what you think the generalized problem is. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7d225a5d-83ce-49c5-ab30-aef67c38d343",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Follow the template in the shared google slide presentation (link above) to record your observations and your problem statement. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "0c553b47-cead-4f4c-b9ad-201f97edb4ca",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "75f20dc1-8cb1-46cc-9f1e-e34eced44424",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "921f3e61-6887-4674-b565-72981cfe48fe",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "👉 At least 2 interviews summarized in the google slide deck per the template (link above)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d047fd90-be1c-4e5e-b997-d7de05895e10",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "21069fa6-208e-44eb-9d9d-13249b64d323",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "In Class",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cd8f9b15-f8d4-4adb-a914-770ea65528e7",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "be prepared to share the stories in small groups during our first class",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "37e445e3-40b6-429d-954c-a6aa9604af8b",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "604fd4fc-d466-4d1f-bb20-11e882521459",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "slkdjflksdjflksdjflksdjflkjsd",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7068295b-9990-4537-ad3e-3a56deb38af5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
