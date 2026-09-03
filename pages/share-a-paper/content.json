@@ -1,0 +1,420 @@
+{
+  "blocks": [
+    {
+      "id": "d6e173fa-7a23-4f43-a758-84d7aeb69fe8",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/share-a-paper/assets/schematics-1767622684020.gif",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "ce152998-0e6d-443f-b469-93cfc09ff771",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "9077cc9e-5f3b-49c6-a4fe-28d7bf8187db",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Overview",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6f107afc-e815-4a3e-bf6c-7884710c0227",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To do a bit more research into cool ideas and technologies, we will find and share a cool article or tech paper. The format will be a ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "quick",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " (max 1 min) summary about what you found / why it might be interesting to explore further in the context of the class!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "0c01e351-05ed-40f8-bf25-e7ce80360e28",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "These could be about an interesting use of technoglogy such as ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://www.fastcompany.com/90212065/the-future-is-ear-why-hearables-are-finally-techs-next-big-thing",
+          "content": [
+            {
+              "type": "text",
+              "text": "hearables",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", or a technical paper such as ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://www.microsoft.com/en-us/research/project/project-zanzibar/#!publications",
+          "content": [
+            {
+              "type": "text",
+              "text": "Project Zanzibar",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "735325e9-9edd-4c95-bf42-8f3f523e6091",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "It could be something inspiring such as ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://www.sketchbook.com/blog/motion-new-app-sketchbook-pro-members/",
+          "content": [
+            {
+              "type": "text",
+              "text": "this adobe sketch/animate product",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5168e4eb-3175-4072-ad01-16d0d2373de5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "It could be weird like ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://dl.acm.org/citation.cfm?id=3173574.3173784",
+          "content": [
+            {
+              "type": "text",
+              "text": "this best of CHI 2018 paper",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "bf248713-c0f8-473c-9d86-957467afa980",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You don’t need to be as theatrical as the ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://www.siggraph.org/",
+          "content": [
+            {
+              "type": "text",
+              "text": "SIGGRAPH",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Paper Fast Forward, but beat this if you can:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c4978ab7-1c1c-4103-b2ca-de419e644728",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "link",
+          "href": "https://youtu.be/CV_14aUBxsI",
+          "content": [
+            {
+              "type": "text",
+              "text": "https://youtu.be/CV_14aUBxsI",
+              "styles": {}
+            }
+          ]
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "56518d82-f708-4901-b9b6-17399b8c572f",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "dfad56a1-cab3-4b08-be8c-4a5e2f5c659b",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Start",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "1db9cb8e-e315-44e5-a94c-e7aaa787854b",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "link",
+          "href": "https://docs.google.com/presentation/d/1HoRBuY8aRwwMpJ7D45ElxxWrcS29YmsuEv9CERhLNH0/edit?usp=sharing",
+          "content": [
+            {
+              "type": "text",
+              "text": "Here is the shared google presentation.",
+              "styles": {}
+            }
+          ]
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a8560bc1-0e26-4dec-806e-7886bdee2511",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Copy/Paste the 3 Template slides and make your presentation! Videos/Images are encouraged (just keep the videos short or skip to the good parts).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "4789b55d-f913-428e-9bab-cfe5ca5879c7",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "66f821bd-0760-4328-94c1-7079f42741bf",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f5b09fec-8431-48af-95e6-7fc186c2f18a",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "add your slides to the presentation",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f1ce5edf-0795-4d61-8b75-0f39f562bd72",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "be prepared to share how it inspires you",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cb3eb30e-3a10-4178-8f1e-e7065d6a6c0b",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "2d388b71-94f9-4e4f-bd4c-f53e30fd9995",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "sldkjfsldkjflskdjflkjsd",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "75c9ef50-ed15-4b31-9734-5b84dcbbaf70",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
