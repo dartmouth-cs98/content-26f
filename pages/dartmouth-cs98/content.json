@@ -1,7 +1,16 @@
 {
   "blocks": [
     {
-      "id": "2bc8120b-3f27-4ba3-83f4-c894c7a0c8ef",
+      "id": "002a8e6e-ee8e-4cea-b38b-6f0669afd419",
+      "type": "navGrid",
+      "props": {
+        "entries": "[{\"kind\":\"schedule\",\"label\":\"Schedule\"}]",
+        "columns": 2
+      },
+      "children": []
+    },
+    {
+      "id": "82d0bba4-41bc-49de-ae8d-2f736fa2a1a1",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
@@ -99,6 +108,17 @@
     },
     {
       "id": "f1b33674-38b7-4e2a-b422-c4e9de47ccad",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "4513e878-ecda-4c1f-adc8-2976c86a1aa0",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
