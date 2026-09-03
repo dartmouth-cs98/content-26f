@@ -1,0 +1,1099 @@
+{
+  "blocks": [
+    {
+      "id": "9736890f-ea9e-4ca0-a160-d4f3eaaf0ec5",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You have done some user interviews and some state-of-the-art research. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b682a595-d6a0-4145-ab74-80205e8d4b78",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Now you will define your user, map their journey, and choose a HMW question. ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "dce88e63-9a78-4e4e-b5dd-2d7c07ce9fbf",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "From there, you will brainstorm a wide array of options for solutions and sketch some possibilities.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "79e8dbed-b192-4ea4-bcff-e164c98b2a11",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Trust the process; these defining and sketching steps prepare you for creating a testable prototype.",
+          "styles": {
+            "italic": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "730c6422-29b8-43d1-8a16-fe91ce3b6a5c",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "e0231e0d-ead5-45a8-a685-940a1d498429",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Figma Setup",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ffcaa64b-8df2-4d3b-b5b7-2e2821728775",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Join",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " the ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://www.figma.com/team_invite/redeem/OzJ9cmYtA08AXmUehZcHTN",
+          "content": [
+            {
+              "type": "text",
+              "text": "CS98 Figma Team",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " & ",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://www.figma.com/student/apply",
+          "content": [
+            {
+              "type": "text",
+              "text": "verify your student status",
+              "styles": {}
+            }
+          ]
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "ef8e9c84-95ca-4b89-b506-ef57db545aff",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Create a project",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " in the CS98 Team Figma named for your project.",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "2bfe921f-75b8-4b87-8df2-4d9519271b3c",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Star this project to add it to the sidebar in Figma for quick access in the future.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "240ef020-1de9-4d3f-8e19-f88f37cad2ae",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Assign one person from your team to ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "duplicate",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " the “",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://www.figma.com/file/qaWYoNlMLPKP0hRI2kM1fI/User-Research?node-id=0%3A1",
+          "content": [
+            {
+              "type": "text",
+              "text": "User Research",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "” FigJam file (in the Figma “Templates” team).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "042a5ad4-ce72-4900-bfbd-af37d1edeba1",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/user-research/assets/1769694229887-cleanshot-2026-01-29-at-08-43-19-2x.png",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 259
+      },
+      "children": []
+    },
+    {
+      "id": "a292605e-c1c1-4c3d-aa2c-d367db811389",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Title the FigJam file ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "UXR: First names of each team member",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8a6325d3-eaff-41de-80f9-b75e9881853b",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Move it out of your drafts to your team’s Figma project (from the file name at the top).",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "35e876d9-6a02-411b-b821-984256d7a788",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/user-research/assets/1769694276782-classmoji-screenshot-sept-23-2022.png",
+        "caption": "",
+        "showPreview": true,
+        "previewWidth": 322
+      },
+      "children": []
+    },
+    {
+      "id": "98a02252-b7db-453d-a109-1ae51036f680",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "ecb66b02-f44d-4430-94ca-a8cf18ff2f1c",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Part 1:  Define (as a team)",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b6822108-0685-49cb-922f-7bec73fdb816",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "User Persona",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "d71f8ec5-df7e-44d9-b62a-42cfa4f4f5ad",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Create a User Persona that focuses on the needs you observed in your interviews. This Persona should generalize a specific user or a compilation from a couple of your interviews.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "4641affa-514d-4f9c-becd-fe0f94b9432a",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Don’t name them or give them an image - instead, focus on their experiential traits as a way to minimize bias. A good title is one that describes these traits, such as “The Overworked Educator” or “The Gardening Grandma.”",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "6c42dc4f-64da-421e-8574-a8481d789954",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "The Dimensions of Difference section pulls out the most memorable traits of the user (e.g. they like to plan every detail in advance vs. they like to be totally spontaneous.)",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "95a86a0b-dcc1-41cf-a91c-1026f06ca858",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Write out a paragraph for this persona based on your interviews. Use primary quotes and details. Remember it’s ok to blend a few different interviews together to get a full picture.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "b4f66f2a-8c14-41b9-99d2-d6d57ce028b9",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "User Journey Map",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "e38dd311-dd15-4841-b4a5-1eb90072ed12",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "With your Persona in mind, be as specific as possible as you map out their current journey to achieve their goal.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "fec45fa4-655c-410f-b2df-ad9080dbfbb7",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Include the full range of actions: from preparation to the conclusion.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "a0680907-a6d7-42fe-ad83-183715c6139a",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Identify places in the user journey where their feelings dipped below baseline (a poached experience) and where their expectations were exceeded (an enriched experience).",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "b659aba8-9433-4fb6-804b-835d67fdbb6d",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Note the opportunities - these are areas you believe a digital tool might help.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "1aaa0279-e4c9-4535-92d2-19b317008359",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "How Might We Questions",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "45440235-8dde-4c24-aebb-f2a53cb5df0b",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Write down 2 HMW questions each.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "7ac5857e-6bad-4ad7-be52-1f11a4889fd9",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Follow ",
+              "styles": {}
+            },
+            {
+              "type": "link",
+              "href": "https://designsprintkit.withgoogle.com/methodology/phase1-understand/hmw-voting/generate-a-broad-range-of-solutions-to-a-small-challenge",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "these directions on dot voting",
+                  "styles": {}
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " to select the best HMW question for your team to focus on.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ab162ff5-c2d5-4048-8521-24a08d61b7b2",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "If you think the chosen HMW could use some tweaking, work on that together.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "55b09932-93b0-4882-9aa7-9fbc0540889a",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "89c696ee-2dc2-4556-a570-97c514625e57",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Part 2:",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": "  Ideate (as a team)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b20daa40-9b0b-45b2-9a8a-1d89280ecaf8",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Brainstorm",
+          "styles": {
+            "bold": true
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "d3f34fdf-e8c8-4e3e-83b3-2c72029b1afc",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "As a team, brainstorm a variety of digital solutions to the selected HMW question.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "c74a2eae-b01e-4a18-8306-33a08d5a9045",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Use any method you prefer as a group. Remember to build on each other’s ideas, focusing on using “and” instead of “but,” and “yes” instead of “no” to encourage each other to keep thinking and contributing.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "c4ef04c0-f122-49b5-84cb-05e1fcd9a4aa",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Record the brainstorm. You can audio record as you chat, designate one person as a note taker (please take turns!), use physical Post-Its, or work directly in FigJam (please talk out loud as you work).",
+              "styles": {}
+            }
+          ],
+          "children": [
+            {
+              "id": "07923dcd-cfc1-4954-b2c1-5dc6ea9f9110",
+              "type": "bulletListItem",
+              "props": {
+                "backgroundColor": "default",
+                "textColor": "default",
+                "textAlignment": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "However you choose to record your brainstorm, keep it to ",
+                  "styles": {}
+                },
+                {
+                  "type": "text",
+                  "text": "one idea per post-it.",
+                  "styles": {
+                    "bold": true
+                  }
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "3875cac1-432c-4192-9349-1314cd8da2c1",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Cluster the ideas by theme.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "5e55c6e3-1106-4729-b3af-ed4955268031",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Crazy 8’s",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " (team)",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "cf964df5-a982-4b75-9dd0-91ba6ea287aa",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Follow the Google Sprint technique for ",
+              "styles": {}
+            },
+            {
+              "type": "link",
+              "href": "https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Crazy 8’s",
+                  "styles": {}
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "94743922-f3bf-498f-b99b-0c967dccb448",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Drawing is a fun part of UX design! It’s an opportunity for brainstorming and finding solutions - don’t worry about how pretty your sketches look. The goal is to visualize your ideas.",
+              "styles": {
+                "italic": true
+              }
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "d51f452f-ed56-4559-951a-74179979a0f6",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "You might try the “thick marker” technique to keep each concept short and sweet.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "2f7c9d40-6805-4b54-9bbf-8e4dd9734011",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Take quality scans or photos and upload them to FigJam.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "56aec9bc-b5e5-4e87-ae6b-cc3e087740e6",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Vote",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " (team)",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "6d5ba822-ba9b-4d33-8cb4-a1a7582681b7",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "Decide as a team on the main features (you might need to sketch a bit to gain clarity or list out the capabilities of this solution).",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "ac9fd6e9-c06b-48b0-a2f7-4221e2a1ba05",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "By now you should have a good idea of what you are creating and a few key features.",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "f7fd0e50-4b93-4fb5-837c-0860732f79b4",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "185cc611-d6ff-4a42-82d7-41a7ee2bc67c",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8578e661-9ca2-4ae0-bcf6-ea6d918dcd40",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Add the URL",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " for the Figjam file to the GitHub issue (be sure the file is saved in the CS98 Figma team)",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "fbb5dfaf-9aa5-4d8b-a1c0-031be163f507",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your GitHub issue (name it with this assignment’s title) is your submission.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "8d9a9e60-3942-40b7-951c-fa58b2b3978c",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Add the label ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "documentation",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " to the issue.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a21bf93e-f358-413c-b768-0e530bfc3da8",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "When you’re done, move it to ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "review",
+          "styles": {
+            "code": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " for the graders.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d09ad81c-64a7-404c-8a6c-96831a2e607d",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "978f0ea7-3024-4de3-9a5c-bcffd55d0538",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "lskdjflksjdflksdjflksdjflsk",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "638063a0-8836-4426-be4b-3394713555d1",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
