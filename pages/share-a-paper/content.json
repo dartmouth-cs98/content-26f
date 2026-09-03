@@ -28,10 +28,10 @@
       "id": "9077cc9e-5f3b-49c6-a4fe-28d7bf8187db",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -258,10 +258,10 @@
       "id": "dfad56a1-cab3-4b08-be8c-4a5e2f5c659b",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -328,10 +328,10 @@
       "id": "66f821bd-0760-4328-94c1-7079f42741bf",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
