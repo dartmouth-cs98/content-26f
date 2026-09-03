@@ -15,10 +15,10 @@
       "id": "h2-big-question",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -133,10 +133,10 @@
       "id": "h2-what-is-smoke-test",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -222,10 +222,10 @@
       "id": "h2-how-to",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
@@ -753,10 +753,10 @@
       "id": "h2-turnin",
       "type": "heading",
       "props": {
-        "backgroundColor": "blue",
+        "backgroundColor": "default",
         "textColor": "default",
         "textAlignment": "left",
-        "level": 2,
+        "level": 1,
         "isToggleable": false
       },
       "content": [
