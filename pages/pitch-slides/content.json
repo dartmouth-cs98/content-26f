@@ -1,0 +1,928 @@
+{
+  "blocks": [
+    {
+      "id": "ec23ecde-b9bb-47ee-bc79-1a0828ae0f1e",
+      "type": "image",
+      "props": {
+        "textAlignment": "left",
+        "backgroundColor": "default",
+        "name": "",
+        "url": "https://raw.githubusercontent.com/dartmouth-cs98/content-26f/main/pages/pitch-slides/assets/pitch-1767624082700.gif",
+        "caption": "",
+        "showPreview": true
+      },
+      "children": []
+    },
+    {
+      "id": "a2e4d2cc-7dd2-4348-a24d-219774cbef08",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "A MAX 2 minute presentation with a little bit of Q&A to pitch your idea to the class. You can pitch with ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "at most 1",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " other person.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6bc5d661-a9e4-47d9-a775-22aeb253d0c1",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "85b59739-b1b1-423b-bf05-0ca412fda93c",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "The Pitch:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c019f6ba-618b-4563-87dd-ec8f528ef5db",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Motivate idea / the problem, tell a story! Everyone loves stories.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "464ac4c8-0ea9-47e9-946a-329f5d5b7a44",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Propose either:",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "bfba27a9-2cd6-4f74-91c4-d3d8baa7db49",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "a potential solution",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "bf73a10f-9682-475f-a253-adab9a2fbaa7",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "OR pose a problem you want to attempt to solve without a solution",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "775619d3-3a2e-4f89-9524-45b96e3615ea",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "OR even just a topic that you think might be interesting to brainstorm around",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "333e6a5e-ff7e-4293-8378-7ed3cf357c20",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Discuss any insights you might have into the problem",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "70cfc471-f2a5-455c-a213-61b358cedf85",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You can use a short slide deck but keep it very visual with ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "at most 10 words",
+          "styles": {
+            "italic": true
+          }
+        },
+        {
+          "type": "text",
+          "text": " on any individual slide!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b3a2288c-8f0d-4aeb-8786-ea3061208a56",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Please, don’t be shy, your idea is great! Pitch cause you care. Pitch for the practice. Pitch to make a difference. Pitch to inspire!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "5c4cc951-1673-4660-9d23-bd90f1711907",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Some thoughts:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b4b623e4-1ec5-4c51-81d8-585df189bf62",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Games, could you take some known game and make it a site or mobile app? Could you make a game for education or poverty or other behavior change?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "1b59e768-524f-4c93-a7bb-7a029583bf42",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Is there an existing product that you want to clone but with a special take. Uber for puppies, Airbnb for breakfast sandwiches, cryptocurrencies for goldfish?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2204267a-8bf3-4c8d-b4f3-6bbb94833355",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Your ideas can be ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "serious",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "world-changing",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ", or ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "completely silly",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ". The point is to enjoy building something cool.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "791cda96-0911-445c-b09f-352230bdd6bc",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "link",
+          "href": "https://www.youtube.com/embed/AwXzt2CV7is?start=230",
+          "content": [
+            {
+              "type": "text",
+              "text": "Change in the Nature of Change",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " talk on Monolithic -> Decentralized -> Distributed industries",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "42b3ef1c-4b6b-4462-af8d-4792e1696574",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Other inspiration sources",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "44c290cb-f726-47a5-a1f1-19dd95e5e9c6",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "link",
+              "href": "https://80000hours.org/problem-profiles/#potentially_promising",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "https://80000hours.org/problem-profiles/#potentially_promising",
+                  "styles": {}
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "0538cba5-fba0-4563-862b-8efaf1de40d6",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "link",
+              "href": "http://www.ycombinator.com/resources/",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "http://www.ycombinator.com/resources/",
+                  "styles": {}
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "d07ecdeb-05f8-4f02-a01a-7c2ee2b932c4",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.startupschool.org/library",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "https://www.startupschool.org/library",
+                  "styles": {}
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "f7239ff6-96e5-41e6-a5ab-1d8de1b70b35",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "link",
+              "href": "http://www.paulgraham.com/startupideas.html",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "http://www.paulgraham.com/startupideas.html",
+                  "styles": {}
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "d5962a19-043c-4df7-812c-4e726b9cdf97",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.producthunt.com/",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "https://www.producthunt.com",
+                  "styles": {}
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "bd615ede-5d99-44be-9021-a6d5ad501485",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.ycombinator.com/rfs/",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "https://www.ycombinator.com/rfs/",
+                  "styles": {}
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "b01976e5-1672-412b-b686-8d2b8602714b",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "link",
+              "href": "https://www.npr.org/podcasts/510313/how-i-built-this",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "https://www.npr.org/podcasts/510313/how-i-built-this",
+                  "styles": {}
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "f5fbf5cc-16dd-4ec9-8600-253fb396ecbd",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "link",
+              "href": "https://dribbble.com/",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "https://dribbble.com/",
+                  "styles": {}
+                }
+              ]
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "d1e6decf-4fc2-4fd4-82d5-873e84d24ef7",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "link",
+              "href": "http://abc.go.com/shows/shark-tank",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "http://abc.go.com/shows/shark-tank",
+                  "styles": {}
+                }
+              ]
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "88a097ce-874d-4eb5-91f6-3b14a6364e8b",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Once teams are created around these pitches, you will have an opportunity to brainstorm/pivot/contribute a bit more as a team so these ",
+          "styles": {}
+        },
+        {
+          "type": "text",
+          "text": "don’t lock you in",
+          "styles": {
+            "bold": true
+          }
+        },
+        {
+          "type": "text",
+          "text": ".",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "bd44c64f-cea7-49d4-afdb-ce9ef9b30ccc",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "63ef0ecd-38c3-4181-93aa-6c0bfd2646c7",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Background Research",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "b0ffe365-6519-4174-b15f-afcd9cfea7bb",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "Don’t forget to do some background research. Sometimes a brief google will show lots of other approaches to the problem. That does not mean your approach isn’t valuable. However the first questions people ask are: doesn’t that already exist? isn’t that just instagram?",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "6c46bba9-0456-4357-9754-0622023678d4",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "You need to be prepared to defend why your approach is better/different/revolutionary/etc.",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "63738c76-7808-4826-ad3c-0549c07c194d",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "e40bba4e-aa54-4e85-bac3-a4b8fb2f1083",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Start:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a9d99adc-1443-4295-a203-5ae8f5312697",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "🚀 Add your slides to the",
+          "styles": {}
+        },
+        {
+          "type": "link",
+          "href": "https://docs.google.com/presentation/d/1Bf922J_cw2vcE_IATNwqc5ejn2KDXQIrvc7s156H8Xg/edit?usp=sharing",
+          "content": [
+            {
+              "type": "text",
+              "text": " shared google presentation!",
+              "styles": {}
+            }
+          ]
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2bebd004-53c1-40d2-85d7-492573a60657",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "9ba58f27-b992-4312-8ce6-d5c13170ec83",
+      "type": "heading",
+      "props": {
+        "backgroundColor": "blue",
+        "textColor": "default",
+        "textAlignment": "left",
+        "level": 2,
+        "isToggleable": false
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "To Turn In:",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "c82ab2ca-f270-4ab1-a0d7-43eb2ad46ce0",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "slides created in shared google presentation",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "a07f299a-d72f-4ca1-a341-b545d13eb412",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "must include at minimum:",
+          "styles": {}
+        }
+      ],
+      "children": [
+        {
+          "id": "0fb3f5b3-fe88-4c3a-a9b6-4a6fd1c856c3",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "name of your pitch partner if you have one",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "6d813a6d-e1b0-4646-b52f-a1c77b58a5fa",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "working title",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "cf53b534-4855-4f9e-9395-53a92b11b959",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "max 8 word tagline",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "838bee97-fad8-4fdc-a638-f1ae02851a67",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "problem statement slide",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "25e8e042-3a05-4a89-a65f-cc0bae60e038",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "mission statement slide",
+              "styles": {}
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "14eef6d4-85a6-466e-b382-4b0155bcdff5",
+          "type": "bulletListItem",
+          "props": {
+            "backgroundColor": "default",
+            "textColor": "default",
+            "textAlignment": "left"
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "challenges opportunties",
+              "styles": {}
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "29d3b0dc-5ce1-43ac-8024-42ec5c3ce542",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "lskjdflsdjflskdjflksdjflksjdf",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "9a100780-2954-42c4-8d00-34ec76919a56",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
